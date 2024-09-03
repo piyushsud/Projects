@@ -1,0 +1,13 @@
+* C:\Users\piyus\knowledge\EE\fm_radio\sims\varactor_model.asc
+.subckt varactor_model cathode anode
+R1 N001 N002 0.8
+L1 N001 Anode 0.7n
+C2 N001 Cathode 1.8p
+D1 N002 Cathode S1672 area=1
+.model D D
+.lib C:\Users\piyus\AppData\Local\LTspice\lib\cmp\standard.dio
+.model S1672 D(Is=1e-14 Rs=0 N=1 Tt=0 Cjo=25.8p M=3.7 Vj=10 Eg=1.11 Xti=3 Kf=0 Af=1 Fc=0.5 Ibv=1e-3 Isr=0 Nr=2 Ikf=0 Ibv=0 Tnom=27)
+.backanno
+.ends varactor_model
+.end
+

@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=Radio_Receiver.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Radio_Receiver.SchDoc|Designator=U_HF_amp|SchDesignator=U_HF_amp|FileName=HF_amp.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=HF_amp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Radio_Receiver.SchDoc|Designator=U_IF_amp|SchDesignator=U_IF_amp|FileName=variable_gain_amp.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=variable_gain_amp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Radio_Receiver.SchDoc|Designator=U_input_stage|SchDesignator=U_input_stage|FileName=input_stage.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=input_stage.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Radio_Receiver.SchDoc|Designator=U_mixer|SchDesignator=U_mixer|FileName=mixer.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=mixer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Radio_Receiver.SchDoc|Designator=U_variable_gain_amp|SchDesignator=U_variable_gain_amp|FileName=variable_gain_amp.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=variable_gain_amp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Radio_Receiver.SchDoc|FileName=output_stage.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Radio_Receiver.SchDoc|FileName=power.SchDoc|SheetNumber=7
