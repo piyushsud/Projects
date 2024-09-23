@@ -5,8 +5,8 @@ Direct Newton iteration for .op point succeeded.
 .step vtest=5
 .step vtest=5.1
 
-Date: Sat Sep 14 10:47:05 2024
-Total elapsed time: 0.345 seconds.
+Date: Sun Sep 22 16:57:44 2024
+Total elapsed time: 0.423 seconds.
 
 tnom = 27
 temp = 27

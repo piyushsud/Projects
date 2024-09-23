@@ -1,0 +1,27 @@
+Circuit: * C:\Users\piyus\Projects\public\fm_radio\sims\simple_LC_input_filter.asc
+
+Number of points per decade reduced from 10000 to 8790.
+.OP point found by inspection.
+.step ctest=1e-11
+.step ctest=2e-11
+.step ctest=3e-11
+.step ctest=4e-11
+.step ctest=5e-11
+
+Date: Sun Sep 22 19:38:55 2024
+Total elapsed time: 0.858 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 0
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 4
+fillins = 0
+solver = Normal
+Avg thread counts: 8.0/0.0/0.0/1.0
+Matrix Compiler1:       7 opcodes
+Matrix Compiler2:      21 opcodes
