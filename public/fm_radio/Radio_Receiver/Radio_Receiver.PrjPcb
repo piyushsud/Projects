@@ -40,6 +40,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\..\Downloads\100X14W104MV4T\AltiumDesigner\100X14W104MV4T.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LAQOIPLO
+
+[Document2]
+DocumentPath=..\..\..\..\Downloads\MC79M05CDTRKG\AltiumDesigner\MC79M05CDTRKG.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RHSPOFHO
+
+[Document3]
 DocumentPath=..\..\..\..\Downloads\MAX2623EUA_T\AltiumDesigner\MAX2623EUA&plus_T.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -56,7 +90,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WTARASSA
 
-[Document2]
+[Document4]
 DocumentPath=..\..\..\..\Downloads\AZ1117ID_3_3TRG1\AltiumDesigner\AZ1117ID-3P3TRG1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -73,7 +107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IIXCQUUR
 
-[Document3]
+[Document5]
 DocumentPath=..\..\..\..\Downloads\MAX7375AXR105_T\AltiumDesigner\MAX7375AXR105&plus_T.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -90,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LFPWASUL
 
-[Document4]
+[Document6]
 DocumentPath=variable_gain_amp.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GBMBEQLI
 
-[Document5]
+[Document7]
 DocumentPath=HF_amp.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,7 +158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSTJWMHY
 
-[Document6]
+[Document8]
 DocumentPath=Radio_Receiver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -141,7 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QJFGYAMM
 
-[Document7]
+[Document9]
 DocumentPath=Radio_Receiver.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AOKNWOTT
 
-[Document8]
+[Document10]
 DocumentPath=rf_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -175,7 +209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MZWMXCNW
 
-[Document9]
+[Document11]
 DocumentPath=..\..\..\..\Downloads\ELJRF1N0DFB\AltiumDesigner\ELJRF1N0DFB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -192,7 +226,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KOEAGJIT
 
-[Document10]
+[Document12]
 DocumentPath=output_stage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -209,7 +243,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WZVGYMRB
 
-[Document11]
+[Document13]
 DocumentPath=input_stage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -226,7 +260,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TUHDJVRB
 
-[Document12]
+[Document14]
 DocumentPath=mixer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -243,7 +277,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IEUQBJEI
 
-[Document13]
+[Document15]
 DocumentPath=..\..\..\..\Downloads\ul_PTHS2630SDR\AltiumDesigner\PTHS2630SDR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -260,7 +294,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WUUVLMIN
 
-[Document14]
+[Document16]
 DocumentPath=power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -277,7 +311,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NNVGGBAN
 
-[Document15]
+[Document17]
 DocumentPath=fm_detector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -294,7 +328,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QGXCIBMJ
 
-[Document16]
+[Document18]
 DocumentPath=amplitude_limiter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -311,7 +345,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=APOHRFGI
 
-[Document17]
+[Document19]
 DocumentPath=LO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
