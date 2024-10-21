@@ -10,3 +10,23 @@ I am currently designing it in Altium Designer. I've taken detailed notes on my 
 The design for each stage in the radio is a LaTex PDF under the respective folder for each stage, under knowledge/Project_Specific_Knowledge/public/fm_radio/stages. I've also put some less organized notes in the brain dump folder.  
 
 If you have any questions, feel free to reach out at piyushsud@gmail.com!.
+
+HF amp:
+
+![image](https://github.com/user-attachments/assets/2ea99273-445a-436f-a206-c4c5a160238d)
+
+Mixer:
+
+![image](https://github.com/user-attachments/assets/1497739c-6850-4c06-a919-4dfe5213d977)
+
+LO:
+
+![image](https://github.com/user-attachments/assets/ee1f8052-9aaa-45e5-8d19-d9c6a52b16c4)
+
+Variable gain amp:
+
+![image](https://github.com/user-attachments/assets/c7529237-3d91-41be-9853-56583aefef46)
+
+
+
+
