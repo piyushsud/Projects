@@ -24,6 +24,11 @@ Variable gain amp:
 
 ![image](https://github.com/user-attachments/assets/c7529237-3d91-41be-9853-56583aefef46)
 
+FM detector:
+
+![image](https://github.com/user-attachments/assets/542a5b0f-db4c-4bf0-9619-6399baadbf3a)
+
+
 
 
 
