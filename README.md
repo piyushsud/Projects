@@ -3,7 +3,8 @@ This engineering portfolio contains all of the engineering projects I have worke
 
 The project which I am the most proud of, which is still a work in progress, is the FM radio receiver that I am currently building. 
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/93d3bf4b-dbc8-4821-a567-e403d63e76f5)
+
 
 I am currently designing it in Altium Designer. I've taken detailed notes on my design process, tradeoffs, part selection, and more in this repo: https://github.com/piyushsud/knowledge/tree/master
 
@@ -17,11 +18,8 @@ HF amp:
 
 Mixer:
 
-![image](https://github.com/user-attachments/assets/1497739c-6850-4c06-a919-4dfe5213d977)
+![image](https://github.com/user-attachments/assets/f5f5eec7-4356-4dc2-a135-d231ca25e7c9)
 
-LO:
-
-![image](https://github.com/user-attachments/assets/ee1f8052-9aaa-45e5-8d19-d9c6a52b16c4)
 
 Variable gain amp:
 
