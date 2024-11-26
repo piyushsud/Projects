@@ -18,8 +18,7 @@ HF amp:
 
 Mixer:
 
-![image](https://github.com/user-attachments/assets/f5f5eec7-4356-4dc2-a135-d231ca25e7c9)
-
+![image](https://github.com/user-attachments/assets/b44390ed-7ef1-428f-87b6-3a326a8c30c2)
 
 Variable gain amp:
 
