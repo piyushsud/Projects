@@ -1,0 +1,38 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Add component: Footprint Not Found X14
+Add component: Footprint Not Found X14
+Add component: Footprint Not Found TO252-2_AZ1117ID-3.3TRG1_DIO
+Add component: Footprint Not Found TO252-2_AZ1117ID-3.3TRG1_DIO
+Add component: Footprint Not Found TO252-2_AZ1117ID-3.3TRG1_DIO
+Add component: Footprint Not Found DPAK-3_ONS
+Add component: Footprint Not Found XTAL_ECS-10.7-15A
+Add Pin To Net: Unknown Pin: Pin U4_U_IF_amp-1
+Add Pin To Net: Unknown Pin: Pin U4_U_IF_amp-2
+Add Pin To Net: Unknown Pin: Pin U4_U_IF_amp-3
+Add Pin To Net: Unknown Pin: Pin U4_U_IF_amp-4
+Add Pin To Net: Unknown Pin: Pin U4_U_variable_gain_amp-1
+Add Pin To Net: Unknown Pin: Pin U4_U_variable_gain_amp-2
+Add Pin To Net: Unknown Pin: Pin U4_U_variable_gain_amp-3
+Add Pin To Net: Unknown Pin: Pin U4_U_variable_gain_amp-4
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U8-1
+Add Pin To Net: Unknown Pin: Pin U8-2
+Add Pin To Net: Unknown Pin: Pin U8-3
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-3
+Add Pin To Net: Unknown Pin: Pin U10-1
+Add Pin To Net: Unknown Pin: Pin U10-2
+Add Pin To Net: Unknown Pin: Pin U10-3
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-3
+Change Net Name : Old Net Name=NetU2_9 New Net Name=NetU1_2
+Add Class Member: Failed to add class member : Component U4_U_IF_amp (U4) 100X14W104MV4T
+Add Class Member: Failed to add class member : Component U4_U_variable_gain_amp (U4) 100X14W104MV4T
+Add Class Member: Failed to add class member : Component U6 AZ1117ID-5
+Add Class Member: Failed to add class member : Component U8 AZ1117ID-3.3
+Add Class Member: Failed to add class member : Component U9 AZ1117ID-ADJTRG1
+Add Class Member: Failed to add class member : Component U10 MC79M05CDTRKG
+Add Class Member: Failed to add class member : Component Y1 ECS-10.7-15A
