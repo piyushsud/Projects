@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=NetC2_1 Pin=C5-2
+Change Component Footprint: Designator=C5 Old Footprint=RAD-0.3 New Footprint=FP-C4532-250-0_4-MFG
+Change Component Comment : Designator=C5 Old Comment=Cap New Comment=C4532C0G3F331K250KA
+Change Managed Component Library Link : Designator=C5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=C35D651C-CE4F-401F-865C-75CB79888994 Old RevisionGUID= New RevisionGUID=D02CB72A-7819-4FA2-A372-C8A393CF84C0
+Change component parameters: Designator = "C5" ("C5"); Footprint = "RAD-0.3"; UniqueID = "\CJDBBGCE\MMLLOLFK" ("\CJDBBGCE\MMLLOLFK")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "330pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "1812"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "4532"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1812"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "3.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "4.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.11inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "3kV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "3kV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "3kV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.000952oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.126inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
