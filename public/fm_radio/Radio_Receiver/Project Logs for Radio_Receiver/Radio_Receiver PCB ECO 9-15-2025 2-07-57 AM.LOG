@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=+5 Pin=C12-2
+Removed Pin From Net: NetName=1.9V Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=3V3 Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=-5 Pin=C37-2
+Removed Pin From Net: NetName=GND Pin=C46-1
+Removed Pin From Net: NetName=NetC7_2 Pin=U7-8
+Removed Member From Class: ClassName=U_mixer Member=C8
+Removed Member From Class: ClassName=U_fm_detector Member=C12
+Removed Member From Class: ClassName=U_LO Member=C21
+Removed Member From Class: ClassName=U_fm_detector Member=C37
+Removed Member From Class: ClassName=U_output_stage Member=C46
+Change Component Footprint: Designator=C7 Old Footprint=RAD-0.3 New Footprint=Cap 0402
+Change Component Footprint: Designator=C8 Old Footprint=RAD-0.3 New Footprint=Cap 0402
+Change Component Footprint: Designator=C12 Old Footprint=RAD-0.3 New Footprint=Cap 0402
+Change Component Footprint: Designator=C13 Old Footprint=RAD-0.3 New Footprint=Cap 0402
+Change Component Footprint: Designator=C14 Old Footprint=RAD-0.3 New Footprint=Cap 0402
+Change Component Footprint: Designator=C15 Old Footprint=RAD-0.3 New Footprint=Cap 0402
+Change Component Footprint: Designator=C16 Old Footprint=RAD-0.3 New Footprint=Cap 0402
+Change Component Footprint: Designator=C18 Old Footprint=RAD-0.3 New Footprint=Cap 0402
+Change Component Footprint: Designator=C21 Old Footprint=RAD-0.3 New Footprint=Cap 0402
+Change Component Footprint: Designator=C35 Old Footprint=RAD-0.3 New Footprint=Cap 0402
+Change Component Footprint: Designator=C36 Old Footprint=RAD-0.3 New Footprint=Cap 0402
+Change Component Comment : Designator=C7 Old Comment=Cap New Comment=935151424610-T3N
+Change Component Comment : Designator=C8 Old Comment=Cap New Comment=935151424610-T3N
+Change Component Comment : Designator=C12 Old Comment=Cap New Comment=935151424610-T3N
+Change Component Comment : Designator=C13 Old Comment=Cap New Comment=935151424610-T3N
+Change Component Comment : Designator=C14 Old Comment=Cap New Comment=935151424610-T3N
+Change Component Comment : Designator=C15 Old Comment=Cap New Comment=935151424610-T3N
+Change Component Comment : Designator=C16 Old Comment=Cap New Comment=935151424610-T3N
+Change Component Comment : Designator=C18 Old Comment=Cap New Comment=935151424610-T3N
+Change Component Comment : Designator=C21 Old Comment=Cap New Comment=935151424610-T3N
+Change Component Comment : Designator=C35 Old Comment=Cap New Comment=935151424610-T3N
+Change Component Comment : Designator=C36 Old Comment=Cap New Comment=935151424610-T3N
+Change component parameters: Designator = "C7" ("C7"); Footprint = "RAD-0.3"; UniqueID = "\YTVNWOVU\OCAVSBJW" ("\YTVNWOVU\OCAVSBJW")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "RAD-0.3"; UniqueID = "\YTVNWOVU\CNCHLVUP\BUTEJART" ("\YTVNWOVU\CNCHLVUP\BUTEJART")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "RAD-0.3"; UniqueID = "\CHSJBUOV\CKZAYDRI" ("\CHSJBUOV\CKZAYDRI")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "RAD-0.3"; UniqueID = "\CXCYWFIF\IKODKIFV" ("\CXCYWFIF\IKODKIFV")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "RAD-0.3"; UniqueID = "\CXCYWFIF\AEUVWGPN" ("\CXCYWFIF\AEUVWGPN")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "RAD-0.3"; UniqueID = "\YTVNWOVU\CNCHLVUP\MSITAHNV" ("\YTVNWOVU\CNCHLVUP\MSITAHNV")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "RAD-0.3"; UniqueID = "\YTVNWOVU\CNCHLVUP\HQRHKHDU" ("\YTVNWOVU\CNCHLVUP\HQRHKHDU")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "RAD-0.3"; UniqueID = "\YTVNWOVU\CNCHLVUP\ORTLIDEA" ("\YTVNWOVU\CNCHLVUP\ORTLIDEA")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "RAD-0.3"; UniqueID = "\CXCYWFIF\HAFXQJMD" ("\CXCYWFIF\HAFXQJMD")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C35" ("C35"); Footprint = "RAD-0.3"; UniqueID = "\CXCYWFIF\BUGVGQNM" ("\CXCYWFIF\BUGVGQNM")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C36" ("C36"); Footprint = "RAD-0.3"; UniqueID = "\CXCYWFIF\UGBFLSUC" ("\CXCYWFIF\UGBFLSUC")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C1(Cap 0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(Cap 0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(Cap 0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(Cap 0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C20(Cap 0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=1.9V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=3V3 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=+5 Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=-5 Pin=C21-2
+Added Pin To Net: NetName=NetC7_2 Pin=L6-1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=U7-8
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=C18-2
+Added Pin To Net: NetName=NetC7_1 Pin=Y2-10
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=U13-7
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=U2-5
+Added Net: Name=NetC18_1
+Added Member To Class: ClassName=U_HF_amp Member=Component C1 935151424610-T3N
+Added Member To Class: ClassName=U_HF_amp Member=Component C2 935151424610-T3N
+Added Member To Class: ClassName=U_HF_amp Member=Component C3 935151424610-T3N
+Added Member To Class: ClassName=U_mixer Member=Component C6 935151424610-T3N
+Added Member To Class: ClassName=U_LO Member=Component C8 935151424610-T3N
+Added Member To Class: ClassName=U_output_stage Member=Component C12 935151424610-T3N
+Added Member To Class: ClassName=U_fm_detector Member=Component C20 935151424610-T3N
+Added Member To Class: ClassName=U_fm_detector Member=Component C21 935151424610-T3N

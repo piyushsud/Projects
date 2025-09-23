@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R1 Old Footprint=FP-CRCW2512-e3-IPC_A New Footprint=Res 0603
+Change Component Comment : Designator=R1 Old Comment=CRCW2512226RFKEG New Comment=RC0603FR-07226RL
+Change Managed Component Library Link : Designator=R1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=ECE73609-4366-47F5-844A-A7FE9D93C873 New ItemGUID= Old RevisionGUID=8E2F4F1F-FB9E-4FEA-8324-20B67FFE470A New RevisionGUID=
+Change component parameters: Designator = "R1" ("R1"); Footprint = "FP-CRCW2512-e3-IPC_A"; UniqueID = "\GLZCQBEN\DCCDZQBZ" ("\GLZCQBEN\DCCDZQBZ")
+Change component parameters (AddParameter): Name = "Resistance"; Value = "226 ohms"; VariantName = "[No Variations]"

@@ -101,6 +101,23 @@ GenerateClassCluster=0
 DocumentUniqueId=KIWUSGHR
 
 [Document4]
+DocumentPath=Res_0603.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ADWMOXHQ
+
+[Document5]
 DocumentPath=Cap_1206.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVCKBBCM
 
-[Document5]
+[Document6]
 DocumentPath=Cap 0603.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GPAAKQYD
 
-[Document6]
+[Document7]
 DocumentPath=..\..\..\..\Downloads\100X14W104MV4T\AltiumDesigner\100X14W104MV4T.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HZHXEMKO
 
-[Document7]
+[Document8]
 DocumentPath=..\..\..\..\Downloads\MAR_8ASM_\AltiumDesigner\MAR-8ASM&plus_.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNXJIGQV
 
-[Document8]
+[Document9]
 DocumentPath=..\..\..\..\Downloads\RC0603JR_071K3L\AltiumDesigner\RC0603JR-071K3L.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLWRGKWS
 
-[Document9]
+[Document10]
 DocumentPath=..\..\..\..\Downloads\MAR_8ASM_\AltiumDesigner\MAR-8ASM&plus_.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HMPONSPG
 
-[Document10]
+[Document11]
 DocumentPath=..\..\..\..\Downloads\RC0603JR_071K3L\AltiumDesigner\RC0603JR-071K3L.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HICEXXZJ
 
-[Document11]
+[Document12]
 DocumentPath=input_stage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TUHDJVRB
 
-[Document12]
+[Document13]
 DocumentPath=HF_amp.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSTJWMHY
 
-[Document13]
+[Document14]
 DocumentPath=mixer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IEUQBJEI
 
-[Document14]
+[Document15]
 DocumentPath=variable_gain_amp.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GBMBEQLI
 
-[Document15]
+[Document16]
 DocumentPath=Radio_Receiver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QJFGYAMM
 
-[Document16]
+[Document17]
 DocumentPath=Radio_Receiver.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AOKNWOTT
 
-[Document17]
+[Document18]
 DocumentPath=rf_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MZWMXCNW
 
-[Document18]
+[Document19]
 DocumentPath=output_stage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WZVGYMRB
 
-[Document19]
+[Document20]
 DocumentPath=power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NNVGGBAN
 
-[Document20]
+[Document21]
 DocumentPath=fm_detector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QGXCIBMJ
 
-[Document21]
+[Document22]
 DocumentPath=LO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWLEESRJ
 
-[Document22]
+[Document23]
 DocumentPath=freq_to_phase.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KTZWOKXP
 
-[Document23]
+[Document24]
 DocumentPath=ATMEGA328P.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MEBCKJRF
 
-[Document24]
+[Document25]
 DocumentPath=0603B204K160CT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -456,6 +473,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BDOHWOEN
+
+[Document26]
+DocumentPath=935156424610-T3N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TVEDLYWD
 
 [Configuration1]
 Name=Sources

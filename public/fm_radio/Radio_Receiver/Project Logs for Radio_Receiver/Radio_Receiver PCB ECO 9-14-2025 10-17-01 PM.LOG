@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=U_mixer Member=C6
+Removed Member From Class: ClassName=U_mixer Member=L4
+Removed Member From Class: ClassName=U_mixer Member=L5
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Added Pin To Net: NetName=NetT1_3 Pin=T1-3
+Added Pin To Net: NetName=NetT1_3 Pin=U7-3
+Added Net: Name=NetT1_3
+Added Pin To Net: NetName=NetT1_5 Pin=T1-5
+Added Pin To Net: NetName=NetT1_5 Pin=U7-4
+Added Net: Name=NetT1_5
+Add Class Member: Failed to add class member : Component C1 935151424610-T3N
+Add Class Member: Failed to add class member : Component C2 935151424610-T3N
+Add Class Member: Failed to add class member : Component C3 935151424610-T3N

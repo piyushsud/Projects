@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=NetC3_2 Pin=T1-1
+Removed Pin From Net: NetName=GND Pin=T1-2
+Removed Member From Class: ClassName=U_mixer Member=R4
+Removed Member From Class: ClassName=U_mixer Member=T1
+Added Pin To Net: NetName=NetC3_2 Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-4

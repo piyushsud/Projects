@@ -1,0 +1,8 @@
+Added Component: Designator=R7_U_IF_amp(Res 0603)
+Added Component: Designator=R7_U_variable_gain_amp(Res 0603)
+Added Pin To Net: NetName=NetR7_U_IF_amp_1 Pin=R7_U_IF_amp-1
+Added Pin To Net: NetName=+5 Pin=R7_U_IF_amp-2
+Added Pin To Net: NetName=NetR7_U_variable_gain_amp_1 Pin=R7_U_variable_gain_amp-1
+Added Pin To Net: NetName=+5 Pin=R7_U_variable_gain_amp-2
+Added Member To Class: ClassName=U_IF_amp Member=Component R7_U_IF_amp (R7) RT0603BRD0740KL
+Added Member To Class: ClassName=U_variable_gain_amp Member=Component R7_U_variable_gain_amp (R7) RT0603BRD0740KL
