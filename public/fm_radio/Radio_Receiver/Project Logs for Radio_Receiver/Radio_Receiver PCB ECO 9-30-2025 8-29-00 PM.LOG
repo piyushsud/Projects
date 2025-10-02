@@ -1,0 +1,80 @@
+Change Component Footprint: Designator=C23_U_IF_amp Old Footprint=FP-C2012-125-0_2-MFG New Footprint=FP-GRM155-0_05-MFG
+Change Component Footprint: Designator=C23_U_variable_gain_amp Old Footprint=FP-C2012-125-0_2-MFG New Footprint=FP-GRM155-0_05-MFG
+Change Component Footprint: Designator=C24_U_IF_amp Old Footprint=FP-C2012-125-0_2-MFG New Footprint=FP-GRM155-0_05-MFG
+Change Component Footprint: Designator=C24_U_variable_gain_amp Old Footprint=FP-C2012-125-0_2-MFG New Footprint=FP-GRM155-0_05-MFG
+Change Component Comment : Designator=C23_U_IF_amp Old Comment=C2012X7R1C225K125AB New Comment=GRM155C80J225KE95D
+Change Component Comment : Designator=C23_U_variable_gain_amp Old Comment=C2012X7R1C225K125AB New Comment=GRM155C80J225KE95D
+Change Component Comment : Designator=C24_U_IF_amp Old Comment=C2012X7R1C225K125AB New Comment=GRM155C80J225KE95D
+Change Component Comment : Designator=C24_U_variable_gain_amp Old Comment=C2012X7R1C225K125AB New Comment=GRM155C80J225KE95D
+Change Managed Component Library Link : Designator=C23_U_IF_amp Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=52AE8D67-74EA-48FA-9830-E9C6CB6981AE New ItemGUID=BDC8AD67-6B7D-4E58-8D5D-8A8563ABC087 Old RevisionGUID=BC61303E-531B-481C-8E42-4A0EA8BB0CB0 New RevisionGUID=CF764189-B99C-45B0-85F2-431B236D1BD3
+Change Managed Component Library Link : Designator=C23_U_variable_gain_amp Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=52AE8D67-74EA-48FA-9830-E9C6CB6981AE New ItemGUID=BDC8AD67-6B7D-4E58-8D5D-8A8563ABC087 Old RevisionGUID=BC61303E-531B-481C-8E42-4A0EA8BB0CB0 New RevisionGUID=CF764189-B99C-45B0-85F2-431B236D1BD3
+Change Managed Component Library Link : Designator=C24_U_IF_amp Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=52AE8D67-74EA-48FA-9830-E9C6CB6981AE New ItemGUID=BDC8AD67-6B7D-4E58-8D5D-8A8563ABC087 Old RevisionGUID=BC61303E-531B-481C-8E42-4A0EA8BB0CB0 New RevisionGUID=CF764189-B99C-45B0-85F2-431B236D1BD3
+Change Managed Component Library Link : Designator=C24_U_variable_gain_amp Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=52AE8D67-74EA-48FA-9830-E9C6CB6981AE New ItemGUID=BDC8AD67-6B7D-4E58-8D5D-8A8563ABC087 Old RevisionGUID=BC61303E-531B-481C-8E42-4A0EA8BB0CB0 New RevisionGUID=CF764189-B99C-45B0-85F2-431B236D1BD3
+Change component parameters: Designator = "C23_U_IF_amp" ("C23"); Footprint = "FP-C2012-125-0_2-MFG"; UniqueID = "\TGLJMECB\FWYKEVAQ" ("\TGLJMECB\FWYKEVAQ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.039inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23_U_variable_gain_amp" ("C23"); Footprint = "FP-C2012-125-0_2-MFG"; UniqueID = "\GLMKJXQX\FWYKEVAQ" ("\GLMKJXQX\FWYKEVAQ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.039inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24_U_IF_amp" ("C24"); Footprint = "FP-C2012-125-0_2-MFG"; UniqueID = "\TGLJMECB\PWTWPTUV" ("\TGLJMECB\PWTWPTUV")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.039inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24_U_variable_gain_amp" ("C24"); Footprint = "FP-C2012-125-0_2-MFG"; UniqueID = "\GLMKJXQX\PWTWPTUV" ("\GLMKJXQX\PWTWPTUV")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.039inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"

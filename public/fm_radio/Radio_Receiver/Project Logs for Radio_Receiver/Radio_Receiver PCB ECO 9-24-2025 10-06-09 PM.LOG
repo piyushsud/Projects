@@ -1,0 +1,157 @@
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=+12 Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=+5 Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=+12 Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=+3V3 Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=+15 Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=C30-1
+Removed Pin From Net: NetName=+12 Pin=C30-2
+Change Component Footprint: Designator=C25 Old Footprint=FP-0805-L_2_0_0_15-W_1_25-MFG New Footprint=WCAP-ASLI_D4H5.5
+Change Component Footprint: Designator=C27 Old Footprint=FP-0805-L_2_0_0_15-W_1_25-MFG New Footprint=WCAP-ASLI_D4H5.5
+Change Component Footprint: Designator=C29 Old Footprint=FP-0805-L_2_0_0_15-W_1_25-MFG New Footprint=WCAP-ASLI_D4H5.5
+Change Component Footprint: Designator=C26 Old Footprint=RAD-0.3 New Footprint=WCAP-AT1H_D10H20
+Change Component Footprint: Designator=C28 Old Footprint=RAD-0.3 New Footprint=WCAP-AT1H_D10H20
+Change Component Footprint: Designator=C30 Old Footprint=RAD-0.3 New Footprint=WCAP-AT1H_D10H20
+Change Component Comment : Designator=C26 Old Comment=Cap New Comment=860240975002
+Change Component Comment : Designator=C28 Old Comment=Cap New Comment=860240975002
+Change Component Comment : Designator=C30 Old Comment=Cap New Comment=860240975002
+Change Component Comment : Designator=C25 Old Comment=LMK212AC6106MD-T New Comment=865080340001
+Change Component Comment : Designator=C27 Old Comment=LMK212AC6106MD-T New Comment=865080340001
+Change Component Comment : Designator=C29 Old Comment=LMK212AC6106MD-T New Comment=865080340001
+Change Managed Component Library Link : Designator=C25 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=27E5DB77-8E5F-4713-BC82-89B15D04191F New ItemGUID=FDFD8B95-9AFF-4E3B-A522-A2D3F8BE75A5 Old RevisionGUID=448C30E8-BCBF-47C9-9261-4D5A4F4240EC New RevisionGUID=64798C47-A70E-4845-AE5C-0ACEAFAD987F
+Change Managed Component Library Link : Designator=C27 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=27E5DB77-8E5F-4713-BC82-89B15D04191F New ItemGUID=FDFD8B95-9AFF-4E3B-A522-A2D3F8BE75A5 Old RevisionGUID=448C30E8-BCBF-47C9-9261-4D5A4F4240EC New RevisionGUID=64798C47-A70E-4845-AE5C-0ACEAFAD987F
+Change Managed Component Library Link : Designator=C29 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=27E5DB77-8E5F-4713-BC82-89B15D04191F New ItemGUID=FDFD8B95-9AFF-4E3B-A522-A2D3F8BE75A5 Old RevisionGUID=448C30E8-BCBF-47C9-9261-4D5A4F4240EC New RevisionGUID=64798C47-A70E-4845-AE5C-0ACEAFAD987F
+Change Managed Component Library Link : Designator=C26 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=357656FB-64B0-46A4-A63C-9FA314F8B224 Old RevisionGUID= New RevisionGUID=9931EF49-3C1B-4C37-A4E3-5C85389E1528
+Change Managed Component Library Link : Designator=C28 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=357656FB-64B0-46A4-A63C-9FA314F8B224 Old RevisionGUID= New RevisionGUID=9931EF49-3C1B-4C37-A4E3-5C85389E1528
+Change Managed Component Library Link : Designator=C30 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=357656FB-64B0-46A4-A63C-9FA314F8B224 Old RevisionGUID= New RevisionGUID=9931EF49-3C1B-4C37-A4E3-5C85389E1528
+Change component parameters: Designator = "C25" ("C25"); Footprint = "FP-0805-L_2_0_0_15-W_1_25-MFG"; UniqueID = "\MQUIASTL\PEJCXWPL" ("\MQUIASTL\PEJCXWPL")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "1.66693O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "5.5118mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "2.2O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "5.33333MO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leakage Current"; Value = "3µA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "5.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Life (Hours)"; Value = "2000hours"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "53914566"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Polar"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "80mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = "80mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "4.3mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "RAD-0.3"; UniqueID = "\MQUIASTL\UGNYZWEV" ("\MQUIASTL\UGNYZWEV")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hole Diameter"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leakage Current"; Value = "240.8µA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "20mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "130590150"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "450mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "160V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "FP-0805-L_2_0_0_15-W_1_25-MFG"; UniqueID = "\MQUIASTL\NHEOMUJP" ("\MQUIASTL\NHEOMUJP")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "1.66693O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "5.5118mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "2.2O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "5.33333MO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leakage Current"; Value = "3µA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "5.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Life (Hours)"; Value = "2000hours"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "53914566"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Polar"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "80mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = "80mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "4.3mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "RAD-0.3"; UniqueID = "\MQUIASTL\ECGTHGAB" ("\MQUIASTL\ECGTHGAB")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hole Diameter"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leakage Current"; Value = "240.8µA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "20mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "130590150"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "450mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "160V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "FP-0805-L_2_0_0_15-W_1_25-MFG"; UniqueID = "\MQUIASTL\UWJSGWUK" ("\MQUIASTL\UWJSGWUK")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "1.66693O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "5.5118mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "2.2O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "5.33333MO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leakage Current"; Value = "3µA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "5.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Life (Hours)"; Value = "2000hours"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "53914566"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Polar"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "80mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = "80mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "4.3mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "RAD-0.3"; UniqueID = "\MQUIASTL\BZFCZKXC" ("\MQUIASTL\BZFCZKXC")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hole Diameter"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leakage Current"; Value = "240.8µA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "20mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "130590150"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "450mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "160V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32" ("C32"); Footprint = "CAPC2013X95X45ML10T25"; UniqueID = "\MQUIASTL\WWCHDAVQ" ("\MQUIASTL\WWCHDAVQ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.33 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM219R71H334KA88D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=+5 Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=+12 Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=+3V3 Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=+15 Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=+12 Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C30-2

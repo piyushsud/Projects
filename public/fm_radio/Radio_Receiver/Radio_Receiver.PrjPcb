@@ -390,23 +390,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NNVGGBAN
 
 [Document21]
-DocumentPath=fm_detector.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QGXCIBMJ
-
-[Document22]
 DocumentPath=LO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWLEESRJ
 
-[Document23]
+[Document22]
 DocumentPath=freq_to_phase.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -439,6 +422,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KTZWOKXP
+
+[Document23]
+DocumentPath=fm_detector.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QGXCIBMJ
 
 [Document24]
 DocumentPath=ATMEGA328P.SchDoc
