@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C5 Old Footprint=CC0402N_YAG New Footprint=CAPC1005X55X25LL05T10
+Change Component Comment : Designator=C5 Old Comment=CC0402JRNP09BN560B New Comment=GRM1555C1H560JA01D
+Change Managed Component Library Link : Designator=C5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=5F3B2262-28A0-419B-91BB-2EDBC6A4105C Old RevisionGUID= New RevisionGUID=DBB7DD14-DDCB-4F64-91AB-CA7D98C3CA75
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CC0402N_YAG"; UniqueID = "\CJDBBGCE\ZIXTPONX" ("\CJDBBGCE\ZIXTPONX")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "56 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM1555C1H560JA01D"; VariantName = "[No Variations]"

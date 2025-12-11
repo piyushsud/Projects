@@ -1,0 +1,36 @@
+Removed Member From Class: ClassName=U_IF_amp Member=R3_U_IF_amp
+Removed Member From Class: ClassName=U_variable_gain_amp Member=R3_U_variable_gain_amp
+Added Component: Designator=VR1_U_IF_amp(TRIM_3362P-1-251LF)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3362P-1-251LF/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3362P-1-251LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3362P-1 Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/3362P-1-251LF/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3362P-1-251LF/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "250 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=VR1_U_variable_gain_amp(TRIM_3362P-1-251LF)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3362P-1-251LF/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3362P-1-251LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3362P-1 Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/3362P-1-251LF/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3362P-1-251LF/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "250 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU5_U_IF_amp_5 Pin=U5_U_IF_amp-5
+Added Pin To Net: NetName=NetU5_U_IF_amp_5 Pin=VR1_U_IF_amp-1
+Added Net: Name=NetU5_U_IF_amp_5
+Added Pin To Net: NetName=NetU5_U_IF_amp_6 Pin=U5_U_IF_amp-6
+Added Pin To Net: NetName=NetU5_U_IF_amp_6 Pin=VR1_U_IF_amp-2
+Added Net: Name=NetU5_U_IF_amp_6
+Added Pin To Net: NetName=NetU5_U_variable_gain_amp_5 Pin=U5_U_variable_gain_amp-5
+Added Pin To Net: NetName=NetU5_U_variable_gain_amp_5 Pin=VR1_U_variable_gain_amp-1
+Added Net: Name=NetU5_U_variable_gain_amp_5
+Added Pin To Net: NetName=NetU5_U_variable_gain_amp_6 Pin=U5_U_variable_gain_amp-6
+Added Pin To Net: NetName=NetU5_U_variable_gain_amp_6 Pin=VR1_U_variable_gain_amp-2
+Added Net: Name=NetU5_U_variable_gain_amp_6
+Added Member To Class: ClassName=U_IF_amp Member=Component VR1_U_IF_amp (VR1) 3362P-1-251LF
+Added Member To Class: ClassName=U_variable_gain_amp Member=Component VR1_U_variable_gain_amp (VR1) 3362P-1-251LF

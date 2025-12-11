@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=L11 Old Footprint=0402-A New Footprint=INDC1608X95N
+Change Component Footprint: Designator=L12 Old Footprint=0402-A New Footprint=INDC1608X95N
+Change Component Comment : Designator=L11 Old Comment=Inductor New Comment=MLF1608E5R6JT000
+Change Component Comment : Designator=L12 Old Comment=Inductor New Comment=MLF1608E5R6JT000
+Change component parameters: Designator = "L11" ("L11"); Footprint = "0402-A"; UniqueID = "\YTVNWOVU\NGTSJQQG" ("\YTVNWOVU\NGTSJQQG")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TDK Corporation'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MLF1608E5R6JT000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.6uH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L12" ("L12"); Footprint = "0402-A"; UniqueID = "\YTVNWOVU\JKVZFRRP" ("\YTVNWOVU\JKVZFRRP")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TDK Corporation'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MLF1608E5R6JT000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.6uH"; VariantName = "[No Variations]"

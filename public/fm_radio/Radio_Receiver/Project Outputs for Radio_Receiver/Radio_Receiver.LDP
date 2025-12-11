@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\piyus\Projects\public\fm_radio\Radio_Receiver\Radio_Receiver.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=radio_receiver.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=radio_receiver-rectholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl

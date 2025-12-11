@@ -1,0 +1,11 @@
+Added Component: Designator=J13(PHOENIX_1935174)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1935174/Phoenix+Contact/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1935174"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1935174/Phoenix+Contact/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J13-1
+Added Pin To Net: NetName=+15 Pin=J13-2
+Added Pin To Net: NetName=-15 Pin=J13-3
+Added Member To Class: ClassName=U_power Member=Component J13 1935174

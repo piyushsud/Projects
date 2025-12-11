@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=NetC4_1 Pin=J3-1
+Removed Pin From Net: NetName=NetC2_1 Pin=L2-1
+Removed Pin From Net: NetName=NetC4_2 Pin=L2-2
+Removed Pin From Net: NetName=GND Pin=L3-1
+Removed Pin From Net: NetName=NetC2_1 Pin=L3-2
+Change Footprint: Footprint Not Found FIL_2450FM07A0029T
+Change Component Footprint: Designator=C5 Old Footprint=FP-C4532-250-0_4-MFG New Footprint=CC0402N_YAG
+Change Component Footprint: Designator=L3 Old Footprint=FP-LQW15AN_80-MFG New Footprint=INDC2012X145N
+Change Component Footprint: Designator=L2 Old Footprint=FP-MLZ1608-IPC_C New Footprint=WE-LQFS_4828
+Change Component Comment : Designator=C5 Old Comment=C4532C0G3F331K250KA New Comment=CC0402JRNP09BN560B
+Change Component Comment : Designator=C4 Old Comment=KGM15ACG2A120JM New Comment=500R07S2R4BV4T
+Change Component Comment : Designator=L3 Old Comment=LQW15AN7N9G80D New Comment=MLF2012D47NMT000
+Change Component Comment : Designator=L2 Old Comment=MLZ1608DR22DT000 New Comment=74406043012
+Change Managed Component Library Link : Designator=L2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=0A7C5564-87D9-4DCE-88A5-5C0EBA0C6033 New ItemGUID=ED2345E4-F4A4-40FB-A281-AA82863C485F Old RevisionGUID=0177B109-4A98-4AEE-A4A6-A07C95876C82 New RevisionGUID=D70CF322-7AC5-488D-A8D4-BD34340CEC7A
+Change Managed Component Library Link : Designator=C5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=C35D651C-CE4F-401F-865C-75CB79888994 New ItemGUID= Old RevisionGUID=D02CB72A-7819-4FA2-A372-C8A393CF84C0 New RevisionGUID=
+Change Managed Component Library Link : Designator=L3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=C0E87BD7-A998-40F6-A10C-F3BF2D474498 New ItemGUID= Old RevisionGUID=D089BA04-0C20-464F-BA19-D88479B74EA1 New RevisionGUID=
+Change component parameters: Designator = "C4" ("C4"); Footprint = "Cap 0603"; UniqueID = "\CJDBBGCE\RFUPXUEC" ("\CJDBBGCE\RFUPXUEC")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "2.4 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/500R07S2R4BV4T/Johanson/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Johanson Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "500R07S2R4BV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402 Johanson"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/500R07S2R4BV4T/Johanson/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "FP-C4532-250-0_4-MFG"; UniqueID = "\CJDBBGCE\ADLGPKNT" ("\CJDBBGCE\ADLGPKNT")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "56 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0402JRNP09BN560B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2" ("L2"); Footprint = "FP-MLZ1608-IPC_C"; UniqueID = "\CJDBBGCE\VQDKEHWU" ("\CJDBBGCE\VQDKEHWU")
+Change component parameters (AddParameter): Name = "Ambient Temperature Range High"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3.61A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance (DCR)"; Value = "18mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "1.2µH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance Tolerance"; Value = "30%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "4.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "77814920"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "4.8mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L3" ("L3"); Footprint = "FP-LQW15AN_80-MFG"; UniqueID = "\CJDBBGCE\LWCIZLZS" ("\CJDBBGCE\LWCIZLZS")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MLF2012D47NMT000/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "47 nH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MLF2012D47NMT000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MLF2012D47NMT000/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MLF2012D47NMT000/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=NetC4_2 Pin=C5-2
+Added Pin To Net: NetName=NetC4_2 Pin=J3-1
+Added Pin To Net: NetName=NetC4_1 Pin=L2-1
+Added Pin To Net: NetName=NetC2_1 Pin=L2-2
+Added Pin To Net: NetName=NetC4_2 Pin=L3-1
+Added Pin To Net: NetName=GND Pin=L3-2

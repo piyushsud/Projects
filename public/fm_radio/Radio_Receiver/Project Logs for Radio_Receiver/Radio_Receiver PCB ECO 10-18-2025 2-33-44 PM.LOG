@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetC45_2 Pin=J2-2
+Change Component Footprint: Designator=J2 Old Footprint=SAMESKY_SJ2-3574A-SMT-TR New Footprint=TENSILITY_54-00174
+Change Component Comment : Designator=J2 Old Comment=SJ2-3574A-SMT-TR New Comment=54-00174
+Change component parameters: Designator = "J2" ("J2"); Footprint = "SAMESKY_SJ2-3574A-SMT-TR"; UniqueID = "\ZJDGZDCD" ("\ZJDGZDCD")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Tensility International Corp'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "54-00174"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1k ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1k ohms"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC45_2 Pin=R3-1
+Added Pin To Net: NetName=NetC45_2 Pin=R14-1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R3-2
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=R14-2
+Added Net: Name=NetJ2_3

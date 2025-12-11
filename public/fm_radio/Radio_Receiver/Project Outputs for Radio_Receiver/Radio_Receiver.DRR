@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Radio_Receiver.PcbDoc   10/27/2025  12:20:05 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Signal to Ground 3
+ASCII RoundHoles File : Radio_Receiver.TXT
+ASCII RectHoles File : Radio_Receiver-RectHoles.TXT
+EIA File   : Radio_Receiver.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             124       PTH        1093.49mm (43.05inch)
+T2      0.63mm (25mil)                                            Round             3         PTH        4.88mm (0.19inch)
+T3      0.714mm (28mil)                                           Round             6         PTH        33.25mm (1.31inch)
+T4      0.8mm (31mil)                                             Rectangle         5         PTH        44.52mm (1.75inch)
+T5      0.9mm (35mil)                                             Round             6         PTH        64.36mm (2.53inch)
+T6      0.99mm (39mil)                                            Round             4         PTH        15.50mm (0.61inch)
+T7      1.1mm (43mil)                                             Round             6         PTH        12.70mm (0.50inch)
+T8      1.2mm (47mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T9      1.3mm (51mil)                                             Round             3         PTH        10.00mm (0.39inch)
+T10     1.7mm (67mil)                                             Round             4         PTH        15.24mm (0.60inch)
+T11     1.2mm (47mil)                                             Round             2         NPTH       7.00mm (0.28inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              164
+
+Total Processing Time (hh:mm:ss) : 00:00:00

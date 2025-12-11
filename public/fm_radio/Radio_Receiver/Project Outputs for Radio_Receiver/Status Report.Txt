@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Radio_Receiver.PrjPcb]
+   Generated File[Radio_Receiver.TXT]
+   Generated File[Radio_Receiver-RectHoles.TXT]
+   Generated File[Radio_Receiver.DRL]
+   Generated File[Radio_Receiver.LDP]
+   Generated File[Radio_Receiver.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 12:20:05 AM On 10/27/2025

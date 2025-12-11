@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetC4_2 Pin=C4-2
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1005X55N New Footprint=CAPC1005X55X25NL05T10
+Change Component Comment : Designator=C4 Old Comment=CC0402BRNPO9BN2R4 New Comment=GRM1555C1H2R4BA01D
+Change Managed Component Library Link : Designator=C4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=4817BF67-EA0F-4BDF-9E3A-A53585DA6114 Old RevisionGUID= New RevisionGUID=219EC688-E8E9-4A7A-A63C-82B3866C4F29
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAPC1005X55N"; UniqueID = "\CJDBBGCE\XJZARORJ" ("\CJDBBGCE\XJZARORJ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "2.4 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM1555C1H2R4BA01D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_2 Pin=C4-1
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=L2-1
+Added Net: Name=NetC4_2

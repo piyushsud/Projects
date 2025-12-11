@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Change Component Footprint: Designator=C9 Old Footprint=CAPC1005X55X25LL05T10 New Footprint=FP-GRM21A-0_2-IPC_C
+Change Component Comment : Designator=C9 Old Comment=GRM1555C1H100JA01D New Comment=GRM21A5C2D100JW01D
+Change Managed Component Library Link : Designator=C9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F0EBB641-BCC4-498A-BA4E-ACF2AC5C0743 New ItemGUID=03FC0811-7518-4789-8D37-F0C5915AA11E Old RevisionGUID=1F59721E-C61C-4E14-84A0-F1758D43A7D1 New RevisionGUID=DF710E27-5F4A-4270-811E-1E9A4A694158
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAPC1005X55X25LL05T10"; UniqueID = "\YTVNWOVU\JBISHEHW" ("\YTVNWOVU\JBISHEHW")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.051inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "200V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=L6-2
+Added Pin To Net: NetName=NetC9_1 Pin=U7-1
+Added Net: Name=NetC9_1

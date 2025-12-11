@@ -1,0 +1,7 @@
+Added Component: Designator=T1(PCBComponent_1)
+Added Pin To Net: NetName=NetL11_1 Pin=T1-1
+Add Pin To Net: Unknown Pin: Pin T1-3
+Add Pin To Net: Unknown Pin: Pin T1-4
+Add Pin To Net: Unknown Pin: Pin T1-5
+Add Pin To Net: Unknown Pin: Pin T1-6
+Added Member To Class: ClassName=U_mixer Member=Component T1 WBC16-1TLC
