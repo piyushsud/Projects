@@ -6,7 +6,7 @@ The project which I am the most proud of, which is still a work in progress, is 
 ![image](https://github.com/user-attachments/assets/93d3bf4b-dbc8-4821-a567-e403d63e76f5)
 
 
-I am currently designing it in Altium Designer. I've taken detailed notes on my design process, tradeoffs, part selection, and more in this repo: https://github.com/piyushsud/knowledge/tree/master
+I have assembled the PCB and am currently testing it at home. I've taken detailed notes on my design process, tradeoffs, part selection, and more in this repo: https://github.com/piyushsud/knowledge/tree/master
 
 The design for each stage in the radio is a LaTex PDF under the respective folder for each stage, under knowledge/Project_Specific_Knowledge/public/fm_radio/stages. I've also put some less organized notes in the brain dump folder.  
 
