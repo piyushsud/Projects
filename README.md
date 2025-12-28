@@ -1,7 +1,7 @@
 # Projects
 This engineering portfolio contains all of the engineering projects I have worked on. 
 
-The project which I am the most proud of, which is still a work in progress, is a FM radio receiver. 
+The project which I am the most proud of is an FM radio receiver. 
 
 ![image](https://github.com/user-attachments/assets/93d3bf4b-dbc8-4821-a567-e403d63e76f5)
 
