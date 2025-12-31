@@ -3,8 +3,7 @@ This engineering portfolio contains all of the engineering projects I have worke
 
 The project which I am the most proud of is an FM radio receiver. 
 
-![image](https://github.com/user-attachments/assets/93d3bf4b-dbc8-4821-a567-e403d63e76f5)
-
+<img width="1065" height="302" alt="image" src="https://github.com/user-attachments/assets/f709599a-ae21-4d2b-a37c-8b03bd871731" />
 
 I have assembled the PCB and tested it at home - a short video is on my LinkedIn page. I've taken detailed notes on my design process, tradeoffs, part selection, and more in this repo: https://github.com/piyushsud/knowledge/tree/master
 
