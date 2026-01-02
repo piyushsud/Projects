@@ -1,5 +1,5 @@
 # Projects
-This engineering portfolio contains all of the engineering projects I have worked on. 
+This engineering portfolio contains some of the engineering projects I have worked on. 
 
 The project which I am the most proud of is an FM radio receiver. 
 
