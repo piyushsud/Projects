@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=J11 Pin=R11_U_single_ended_to_diff_quad7-1
+Removed Pin From Net: NetName=H11 Pin=R11_U_single_ended_to_diff_quad8-1
+Removed Pin From Net: NetName=K13 Pin=R17_U_single_ended_to_diff_quad7-1
+Removed Pin From Net: NetName=H12 Pin=R17_U_single_ended_to_diff_quad8-1
+Removed Pin From Net: NetName=J12 Pin=R23_U_single_ended_to_diff_quad7-1
+Removed Pin From Net: NetName=H13 Pin=R23_U_single_ended_to_diff_quad8-1
+Removed Pin From Net: NetName=J13 Pin=R27_U_single_ended_to_diff_quad7-1
+Removed Pin From Net: NetName=G12 Pin=R27_U_single_ended_to_diff_quad8-1
+Added Pin To Net: NetName=J13 Pin=R11_U_single_ended_to_diff_quad7-1
+Added Pin To Net: NetName=G12 Pin=R11_U_single_ended_to_diff_quad8-1
+Added Pin To Net: NetName=J12 Pin=R17_U_single_ended_to_diff_quad7-1
+Added Pin To Net: NetName=H13 Pin=R17_U_single_ended_to_diff_quad8-1
+Added Pin To Net: NetName=K13 Pin=R23_U_single_ended_to_diff_quad7-1
+Added Pin To Net: NetName=H12 Pin=R23_U_single_ended_to_diff_quad8-1
+Added Pin To Net: NetName=J11 Pin=R27_U_single_ended_to_diff_quad7-1
+Added Pin To Net: NetName=H11 Pin=R27_U_single_ended_to_diff_quad8-1

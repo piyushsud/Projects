@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CHN24 Pin=R10_U_single_ended_to_diff_quad10-1
+Removed Pin From Net: NetName=CHN27 Pin=R28_U_single_ended_to_diff_quad10-1
+Added Pin To Net: NetName=CHN27 Pin=R10_U_single_ended_to_diff_quad10-1
+Added Pin To Net: NetName=CHN24 Pin=R28_U_single_ended_to_diff_quad10-1

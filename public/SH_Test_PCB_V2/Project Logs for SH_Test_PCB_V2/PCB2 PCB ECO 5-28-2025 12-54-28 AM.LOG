@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=CHN51 Pin=R10_U_single_ended_to_diff_quad4-1
+Removed Pin From Net: NetName=K3 Pin=R11_U_single_ended_to_diff_quad4-1
+Removed Pin From Net: NetName=CHP51 Pin=R12_U_single_ended_to_diff_quad4-1
+Removed Pin From Net: NetName=CHN50 Pin=R16_U_single_ended_to_diff_quad4-1
+Removed Pin From Net: NetName=L2 Pin=R17_U_single_ended_to_diff_quad4-1
+Removed Pin From Net: NetName=CHP50 Pin=R18_U_single_ended_to_diff_quad4-1
+Removed Pin From Net: NetName=CHN49 Pin=R22_U_single_ended_to_diff_quad4-1
+Removed Pin From Net: NetName=N1 Pin=R23_U_single_ended_to_diff_quad4-1
+Removed Pin From Net: NetName=CHP49 Pin=R24_U_single_ended_to_diff_quad4-1
+Removed Pin From Net: NetName=L3 Pin=R27_U_single_ended_to_diff_quad4-1
+Removed Pin From Net: NetName=CHN48 Pin=R28_U_single_ended_to_diff_quad4-1
+Removed Pin From Net: NetName=CHP48 Pin=R30_U_single_ended_to_diff_quad4-1
+Change Component Description : Designator=J2 Old Description=PCB Terminal Screw 5mm 16AWG 400V 17.5A 3 Position COMBICON PT Series New Description=PCB Terminal Screw 5mm 16AWG 400V 17.5A 3 Position COMBICON PT Series | Phoenix Contact 1935174
+Change Component Description : Designator=J13 Old Description=PCB Terminal Screw 5mm 16AWG 400V 17.5A 3 Position COMBICON PT Series New Description=PCB Terminal Screw 5mm 16AWG 400V 17.5A 3 Position COMBICON PT Series | Phoenix Contact 1935174
+Added Pin To Net: NetName=CHN48 Pin=R10_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=L3 Pin=R11_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=CHP48 Pin=R12_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=CHN49 Pin=R16_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=N1 Pin=R17_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=CHP49 Pin=R18_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=CHN50 Pin=R22_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=L2 Pin=R23_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=CHP50 Pin=R24_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=K3 Pin=R27_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=CHN51 Pin=R28_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=CHP51 Pin=R30_U_single_ended_to_diff_quad4-1
+Added Room: Name=U_load_resistor
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8

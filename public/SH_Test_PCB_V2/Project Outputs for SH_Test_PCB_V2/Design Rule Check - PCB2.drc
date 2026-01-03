@@ -1,0 +1,99 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\piyus\Yang_Lab\Memristor_RF_Test_PCB\SH_Test_PCB_V2\PCB2.PcbDoc
+Date     : 5/30/2025
+Time     : 7:40:35 PM
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=20mil) (Preferred=7mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=15mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=6mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Room U_single_ended_to_diff_quad11 (Bounding Region = (6371.683mil, 5298.898mil, 7021.683mil, 5963.898mil) (InComponentClass('U_single_ended_to_diff_quad11'))
+Rule Violations :0
+
+Processing Rule : Room U_single_ended_to_diff_quad10 (Bounding Region = (5716.683mil, 5300mil, 6366.683mil, 5965mil) (InComponentClass('U_single_ended_to_diff_quad10'))
+Rule Violations :0
+
+Processing Rule : Room U_single_ended_to_diff_quad7 (Bounding Region = (1826.683mil, 5370mil, 2476.683mil, 6035mil) (InComponentClass('U_single_ended_to_diff_quad7'))
+Rule Violations :0
+
+Processing Rule : Room U_single_ended_to_diff_quad6 (Bounding Region = (1166.683mil, 5370mil, 1816.683mil, 6035mil) (InComponentClass('U_single_ended_to_diff_quad6'))
+Rule Violations :0
+
+Processing Rule : Room U_single_ended_to_diff_quad2 (Bounding Region = (1181.683mil, 3265mil, 1831.683mil, 3930mil) (InComponentClass('U_single_ended_to_diff_quad2'))
+Rule Violations :0
+
+Processing Rule : Room U_single_ended_to_diff_quad5 (Bounding Region = (506.683mil, 5370mil, 1156.683mil, 6035mil) (InComponentClass('U_single_ended_to_diff_quad5'))
+Rule Violations :0
+
+Processing Rule : Room U_single_ended_to_diff_quad12 (Bounding Region = (7026.683mil, 5300mil, 7676.683mil, 5965mil) (InComponentClass('U_single_ended_to_diff_quad12'))
+Rule Violations :0
+
+Processing Rule : Room U_single_ended_to_diff_quad1 (Bounding Region = (521.683mil, 3265mil, 1171.683mil, 3930mil) (InComponentClass('U_single_ended_to_diff_quad1'))
+Rule Violations :0
+
+Processing Rule : Room U_single_ended_to_diff_quad8 (Bounding Region = (2486.683mil, 5370mil, 3136.683mil, 6035mil) (InComponentClass('U_single_ended_to_diff_quad8'))
+Rule Violations :0
+
+Processing Rule : Room U_single_ended_to_diff_quad15 (Bounding Region = (6391.683mil, 3280mil, 7041.683mil, 3945mil) (InComponentClass('U_single_ended_to_diff_quad15'))
+Rule Violations :0
+
+Processing Rule : Room U_single_ended_to_diff_quad14 (Bounding Region = (5736.683mil, 3280mil, 6386.683mil, 3945mil) (InComponentClass('U_single_ended_to_diff_quad14'))
+Rule Violations :0
+
+Processing Rule : Room U_single_ended_to_diff_quad9 (Bounding Region = (5061.683mil, 5300mil, 5711.683mil, 5965mil) (InComponentClass('U_single_ended_to_diff_quad9'))
+Rule Violations :0
+
+Processing Rule : Room U_single_ended_to_diff_quad16 (Bounding Region = (7046.683mil, 3280mil, 7696.683mil, 3945mil) (InComponentClass('U_single_ended_to_diff_quad16'))
+Rule Violations :0
+
+Processing Rule : Room U_single_ended_to_diff_quad3 (Bounding Region = (1836.683mil, 3265mil, 2486.683mil, 3930mil) (InComponentClass('U_single_ended_to_diff_quad3'))
+Rule Violations :0
+
+Processing Rule : Room U_single_ended_to_diff_quad4 (Bounding Region = (2491.683mil, 3265mil, 3141.683mil, 3930mil) (InComponentClass('U_single_ended_to_diff_quad4'))
+Rule Violations :0
+
+Processing Rule : Room U_single_ended_to_diff_quad13 (Bounding Region = (5081.683mil, 3280mil, 5731.683mil, 3945mil) (InComponentClass('U_single_ended_to_diff_quad13'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:02

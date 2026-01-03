@@ -1,0 +1,17 @@
+Added Component: Designator=R5(Res 0402)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW1(D6R90_CNK)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "C&K Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Pushbutton Switches"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=N12 Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=SW1-1
+Added Pin To Net: NetName=NetR5_2 Pin=SW1-2
+Added Pin To Net: NetName=n0V6 Pin=SW1-3
+Added Pin To Net: NetName=n0V6 Pin=SW1-4
+Added Member To Class: ClassName=U_RESET_BUTTON Member=Component R5 RC0402JR-0710KL
+Added Member To Class: ClassName=U_RESET_BUTTON Member=Component SW1 D6R90F2LFS

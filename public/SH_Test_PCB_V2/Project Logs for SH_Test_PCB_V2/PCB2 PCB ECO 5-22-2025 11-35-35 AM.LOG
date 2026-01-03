@@ -1,0 +1,350 @@
+Removed Pin From Net: NetName=F3 Pin=J9-01
+Removed Pin From Net: NetName=E1 Pin=J9-02
+Removed Pin From Net: NetName=E2 Pin=J9-03
+Removed Pin From Net: NetName=D1 Pin=J9-04
+Removed Pin From Net: NetName=E3 Pin=J9-05
+Removed Pin From Net: NetName=D2 Pin=J9-06
+Removed Pin From Net: NetName=C1 Pin=J9-07
+Removed Pin From Net: NetName=C2 Pin=J9-08
+Removed Pin From Net: NetName=D3 Pin=J9-09
+Removed Pin From Net: NetName=C10 Pin=J9-17
+Removed Pin From Net: NetName=A12 Pin=J9-18
+Removed Pin From Net: NetName=B12 Pin=J9-19
+Removed Pin From Net: NetName=C11 Pin=J9-20
+Removed Pin From Net: NetName=A13 Pin=J9-21
+Removed Pin From Net: NetName=C12 Pin=J9-22
+Removed Pin From Net: NetName=D11 Pin=J9-23
+Removed Pin From Net: NetName=B13 Pin=J9-24
+Removed Pin From Net: NetName=C13 Pin=J9-25
+Removed Pin From Net: NetName=D12 Pin=J9-26
+Removed Pin From Net: NetName=E11 Pin=J9-27
+Removed Pin From Net: NetName=D13 Pin=J9-28
+Removed Pin From Net: NetName=E12 Pin=J9-29
+Removed Pin From Net: NetName=E13 Pin=J9-30
+Removed Pin From Net: NetName=F11 Pin=J9-31
+Removed Pin From Net: NetName=F12 Pin=J9-32
+Removed Pin From Net: NetName=G12 Pin=J9-33
+Removed Pin From Net: NetName=H13 Pin=J9-34
+Removed Pin From Net: NetName=H12 Pin=J9-35
+Removed Pin From Net: NetName=H11 Pin=J9-36
+Removed Pin From Net: NetName=J13 Pin=J9-37
+Removed Pin From Net: NetName=J12 Pin=J9-38
+Removed Pin From Net: NetName=K13 Pin=J9-39
+Removed Pin From Net: NetName=J11 Pin=J9-40
+Removed Pin From Net: NetName=K12 Pin=J9-41
+Removed Pin From Net: NetName=L13 Pin=J9-42
+Removed Pin From Net: NetName=L12 Pin=J9-43
+Removed Pin From Net: NetName=K11 Pin=J9-44
+Removed Pin From Net: NetName=M13 Pin=J9-45
+Removed Pin From Net: NetName=M12 Pin=J9-46
+Removed Pin From Net: NetName=L11 Pin=J9-47
+Removed Pin From Net: NetName=N13 Pin=J9-48
+Removed Pin From Net: NetName=L3 Pin=J9-49
+Removed Pin From Net: NetName=N1 Pin=J9-50
+Removed Pin From Net: NetName=L2 Pin=J9-51
+Removed Pin From Net: NetName=K3 Pin=J9-52
+Removed Pin From Net: NetName=M1 Pin=J9-53
+Removed Pin From Net: NetName=L1 Pin=J9-54
+Removed Pin From Net: NetName=K2 Pin=J9-55
+Removed Pin From Net: NetName=J3 Pin=J9-56
+Removed Pin From Net: NetName=K1 Pin=J9-57
+Removed Pin From Net: NetName=J2 Pin=J9-58
+Removed Pin From Net: NetName=J1 Pin=J9-59
+Removed Pin From Net: NetName=H3 Pin=J9-60
+Removed Pin From Net: NetName=H2 Pin=J9-61
+Removed Pin From Net: NetName=H1 Pin=J9-62
+Removed Pin From Net: NetName=G1 Pin=J9-63
+Removed Pin From Net: NetName=G3 Pin=J9-64
+Removed Pin From Net: NetName=GND Pin=J10-01
+Removed Pin From Net: NetName=GND Pin=J10-02
+Removed Pin From Net: NetName=GND Pin=J10-03
+Removed Pin From Net: NetName=GND Pin=J10-04
+Removed Pin From Net: NetName=GND Pin=J10-05
+Removed Pin From Net: NetName=GND Pin=J10-06
+Removed Pin From Net: NetName=GND Pin=J10-07
+Removed Pin From Net: NetName=GND Pin=J10-08
+Removed Pin From Net: NetName=GND Pin=J10-09
+Removed Pin From Net: NetName=GND Pin=J10-10
+Removed Pin From Net: NetName=GND Pin=J10-11
+Removed Pin From Net: NetName=GND Pin=J10-12
+Removed Pin From Net: NetName=GND Pin=J10-13
+Removed Pin From Net: NetName=GND Pin=J10-14
+Removed Pin From Net: NetName=GND Pin=J10-15
+Removed Pin From Net: NetName=GND Pin=J10-16
+Removed Pin From Net: NetName=GND Pin=J10-17
+Removed Pin From Net: NetName=GND Pin=J10-18
+Removed Pin From Net: NetName=GND Pin=J10-19
+Removed Pin From Net: NetName=GND Pin=J10-20
+Removed Pin From Net: NetName=GND Pin=J10-21
+Removed Pin From Net: NetName=GND Pin=J10-22
+Removed Pin From Net: NetName=GND Pin=J10-23
+Removed Pin From Net: NetName=GND Pin=J10-24
+Removed Pin From Net: NetName=GND Pin=J10-25
+Removed Pin From Net: NetName=GND Pin=J10-26
+Removed Pin From Net: NetName=GND Pin=J10-27
+Removed Pin From Net: NetName=GND Pin=J10-28
+Removed Pin From Net: NetName=GND Pin=J10-29
+Removed Pin From Net: NetName=GND Pin=J10-30
+Removed Pin From Net: NetName=GND Pin=J10-31
+Removed Pin From Net: NetName=GND Pin=J10-32
+Removed Pin From Net: NetName=GND Pin=J10-33
+Removed Pin From Net: NetName=GND Pin=J10-34
+Removed Pin From Net: NetName=GND Pin=J10-35
+Removed Pin From Net: NetName=GND Pin=J10-36
+Removed Pin From Net: NetName=GND Pin=J10-37
+Removed Pin From Net: NetName=GND Pin=J10-38
+Removed Pin From Net: NetName=GND Pin=J10-39
+Removed Pin From Net: NetName=GND Pin=J10-40
+Removed Pin From Net: NetName=GND Pin=J10-41
+Removed Pin From Net: NetName=GND Pin=J10-42
+Removed Pin From Net: NetName=GND Pin=J10-43
+Removed Pin From Net: NetName=GND Pin=J10-44
+Removed Pin From Net: NetName=GND Pin=J10-45
+Removed Pin From Net: NetName=GND Pin=J10-46
+Removed Pin From Net: NetName=GND Pin=J10-47
+Removed Pin From Net: NetName=GND Pin=J10-48
+Removed Pin From Net: NetName=GND Pin=J10-49
+Removed Pin From Net: NetName=GND Pin=J10-50
+Removed Pin From Net: NetName=GND Pin=J10-51
+Removed Pin From Net: NetName=GND Pin=J10-52
+Removed Pin From Net: NetName=GND Pin=J10-53
+Removed Pin From Net: NetName=GND Pin=J10-54
+Removed Pin From Net: NetName=GND Pin=J10-55
+Removed Pin From Net: NetName=GND Pin=J10-56
+Removed Pin From Net: NetName=GND Pin=J10-57
+Removed Pin From Net: NetName=GND Pin=J10-58
+Removed Pin From Net: NetName=GND Pin=J10-59
+Removed Pin From Net: NetName=GND Pin=J10-60
+Removed Pin From Net: NetName=GND Pin=J10-61
+Removed Pin From Net: NetName=GND Pin=J10-62
+Removed Pin From Net: NetName=GND Pin=J10-63
+Removed Pin From Net: NetName=GND Pin=J10-64
+Change Component Footprint: Designator=J9 Old Footprint=AMPHENOL_75869-110LF New Footprint=61301611821
+Change Component Footprint: Designator=J10 Old Footprint=AMPHENOL_75869-110LF New Footprint=61301611821
+Change Component Comment : Designator=J9 Old Comment=75869-110LF New Comment=61301611821
+Change Component Comment : Designator=J10 Old Comment=75869-110LF New Comment=61301611821
+Change Managed Component Library Link : Designator=J9 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=677FDE8B-FF28-4C48-8DBE-6499556D6B0C Old RevisionGUID= New RevisionGUID=5DD4F16D-4539-4958-B091-BBD1B2D52A3C
+Change Managed Component Library Link : Designator=J10 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=677FDE8B-FF28-4C48-8DBE-6499556D6B0C Old RevisionGUID= New RevisionGUID=5DD4F16D-4539-4958-B091-BBD1B2D52A3C
+Change component parameters: Designator = "J9" ("J9"); Footprint = "AMPHENOL_75869-110LF"; UniqueID = "\HGQLGWBI\VYWVMNAL" ("\HGQLGWBI\VYWVMNAL")
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "23389750"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J10" ("J10"); Footprint = "AMPHENOL_75869-110LF"; UniqueID = "\HGQLGWBI\TTARKFSL" ("\HGQLGWBI\TTARKFSL")
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "23389750"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Added Component: Designator=J24(61301611821)
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "23389750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Added Component: Designator=J25(61301611821)
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "23389750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Added Component: Designator=J26(61301611821)
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "23389750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Added Component: Designator=J27(61301611821)
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "23389750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Added Component: Designator=J28(61301611821)
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "23389750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Added Component: Designator=J29(61301611821)
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "23389750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=F3 Pin=J9-1
+Added Pin To Net: NetName=E1 Pin=J9-2
+Added Pin To Net: NetName=E2 Pin=J9-3
+Added Pin To Net: NetName=D1 Pin=J9-4
+Added Pin To Net: NetName=E3 Pin=J9-5
+Added Pin To Net: NetName=D2 Pin=J9-6
+Added Pin To Net: NetName=C1 Pin=J9-7
+Added Pin To Net: NetName=C2 Pin=J9-8
+Added Pin To Net: NetName=D3 Pin=J9-9
+Added Pin To Net: NetName=G12 Pin=J10-1
+Added Pin To Net: NetName=H13 Pin=J10-2
+Added Pin To Net: NetName=H12 Pin=J10-3
+Added Pin To Net: NetName=H11 Pin=J10-4
+Added Pin To Net: NetName=J13 Pin=J10-5
+Added Pin To Net: NetName=J12 Pin=J10-6
+Added Pin To Net: NetName=K13 Pin=J10-7
+Added Pin To Net: NetName=J11 Pin=J10-8
+Added Pin To Net: NetName=K12 Pin=J10-9
+Added Pin To Net: NetName=L13 Pin=J10-10
+Added Pin To Net: NetName=L12 Pin=J10-11
+Added Pin To Net: NetName=K11 Pin=J10-12
+Added Pin To Net: NetName=M13 Pin=J10-13
+Added Pin To Net: NetName=M12 Pin=J10-14
+Added Pin To Net: NetName=L11 Pin=J10-15
+Added Pin To Net: NetName=N13 Pin=J10-16
+Added Pin To Net: NetName=GND Pin=J24-1
+Added Pin To Net: NetName=GND Pin=J24-2
+Added Pin To Net: NetName=GND Pin=J24-3
+Added Pin To Net: NetName=GND Pin=J24-4
+Added Pin To Net: NetName=GND Pin=J24-5
+Added Pin To Net: NetName=GND Pin=J24-6
+Added Pin To Net: NetName=GND Pin=J24-7
+Added Pin To Net: NetName=GND Pin=J24-8
+Added Pin To Net: NetName=GND Pin=J24-9
+Added Pin To Net: NetName=GND Pin=J24-10
+Added Pin To Net: NetName=GND Pin=J24-11
+Added Pin To Net: NetName=GND Pin=J24-12
+Added Pin To Net: NetName=GND Pin=J24-13
+Added Pin To Net: NetName=GND Pin=J24-14
+Added Pin To Net: NetName=GND Pin=J24-15
+Added Pin To Net: NetName=GND Pin=J24-16
+Added Pin To Net: NetName=GND Pin=J25-1
+Added Pin To Net: NetName=GND Pin=J25-2
+Added Pin To Net: NetName=GND Pin=J25-3
+Added Pin To Net: NetName=GND Pin=J25-4
+Added Pin To Net: NetName=GND Pin=J25-5
+Added Pin To Net: NetName=GND Pin=J25-6
+Added Pin To Net: NetName=GND Pin=J25-7
+Added Pin To Net: NetName=GND Pin=J25-8
+Added Pin To Net: NetName=GND Pin=J25-9
+Added Pin To Net: NetName=GND Pin=J25-10
+Added Pin To Net: NetName=GND Pin=J25-11
+Added Pin To Net: NetName=GND Pin=J25-12
+Added Pin To Net: NetName=GND Pin=J25-13
+Added Pin To Net: NetName=GND Pin=J25-14
+Added Pin To Net: NetName=GND Pin=J25-15
+Added Pin To Net: NetName=GND Pin=J25-16
+Added Pin To Net: NetName=C10 Pin=J26-1
+Added Pin To Net: NetName=A12 Pin=J26-2
+Added Pin To Net: NetName=B12 Pin=J26-3
+Added Pin To Net: NetName=C11 Pin=J26-4
+Added Pin To Net: NetName=A13 Pin=J26-5
+Added Pin To Net: NetName=C12 Pin=J26-6
+Added Pin To Net: NetName=D11 Pin=J26-7
+Added Pin To Net: NetName=B13 Pin=J26-8
+Added Pin To Net: NetName=C13 Pin=J26-9
+Added Pin To Net: NetName=D12 Pin=J26-10
+Added Pin To Net: NetName=E11 Pin=J26-11
+Added Pin To Net: NetName=D13 Pin=J26-12
+Added Pin To Net: NetName=E12 Pin=J26-13
+Added Pin To Net: NetName=E13 Pin=J26-14
+Added Pin To Net: NetName=F11 Pin=J26-15
+Added Pin To Net: NetName=F12 Pin=J26-16
+Added Pin To Net: NetName=L3 Pin=J27-1
+Added Pin To Net: NetName=N1 Pin=J27-2
+Added Pin To Net: NetName=L2 Pin=J27-3
+Added Pin To Net: NetName=K3 Pin=J27-4
+Added Pin To Net: NetName=M1 Pin=J27-5
+Added Pin To Net: NetName=L1 Pin=J27-6
+Added Pin To Net: NetName=K2 Pin=J27-7
+Added Pin To Net: NetName=J3 Pin=J27-8
+Added Pin To Net: NetName=K1 Pin=J27-9
+Added Pin To Net: NetName=J2 Pin=J27-10
+Added Pin To Net: NetName=J1 Pin=J27-11
+Added Pin To Net: NetName=H3 Pin=J27-12
+Added Pin To Net: NetName=H2 Pin=J27-13
+Added Pin To Net: NetName=H1 Pin=J27-14
+Added Pin To Net: NetName=G1 Pin=J27-15
+Added Pin To Net: NetName=G3 Pin=J27-16
+Added Pin To Net: NetName=GND Pin=J28-1
+Added Pin To Net: NetName=GND Pin=J28-2
+Added Pin To Net: NetName=GND Pin=J28-3
+Added Pin To Net: NetName=GND Pin=J28-4
+Added Pin To Net: NetName=GND Pin=J28-5
+Added Pin To Net: NetName=GND Pin=J28-6
+Added Pin To Net: NetName=GND Pin=J28-7
+Added Pin To Net: NetName=GND Pin=J28-8
+Added Pin To Net: NetName=GND Pin=J28-9
+Added Pin To Net: NetName=GND Pin=J28-10
+Added Pin To Net: NetName=GND Pin=J28-11
+Added Pin To Net: NetName=GND Pin=J28-12
+Added Pin To Net: NetName=GND Pin=J28-13
+Added Pin To Net: NetName=GND Pin=J28-14
+Added Pin To Net: NetName=GND Pin=J28-15
+Added Pin To Net: NetName=GND Pin=J28-16
+Added Pin To Net: NetName=GND Pin=J29-1
+Added Pin To Net: NetName=GND Pin=J29-2
+Added Pin To Net: NetName=GND Pin=J29-3
+Added Pin To Net: NetName=GND Pin=J29-4
+Added Pin To Net: NetName=GND Pin=J29-5
+Added Pin To Net: NetName=GND Pin=J29-6
+Added Pin To Net: NetName=GND Pin=J29-7
+Added Pin To Net: NetName=GND Pin=J29-8
+Added Pin To Net: NetName=GND Pin=J29-9
+Added Pin To Net: NetName=GND Pin=J29-10
+Added Pin To Net: NetName=GND Pin=J29-11
+Added Pin To Net: NetName=GND Pin=J29-12
+Added Pin To Net: NetName=GND Pin=J29-13
+Added Pin To Net: NetName=GND Pin=J29-14
+Added Pin To Net: NetName=GND Pin=J29-15
+Added Pin To Net: NetName=GND Pin=J29-16
+Added Member To Class: ClassName=U_load_capacitor Member=Component J24 61301611821
+Added Member To Class: ClassName=U_load_capacitor Member=Component J25 61301611821
+Added Member To Class: ClassName=U_load_capacitor Member=Component J26 61301611821
+Added Member To Class: ClassName=U_load_capacitor Member=Component J27 61301611821
+Added Member To Class: ClassName=U_load_capacitor Member=Component J28 61301611821
+Added Member To Class: ClassName=U_load_capacitor Member=Component J29 61301611821

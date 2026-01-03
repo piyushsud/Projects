@@ -1,0 +1,198 @@
+Added Component: Designator=C28_U_single_ended_to_diff_quad5(FP-CL17-IPC_C)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=C30_U_single_ended_to_diff_quad5(FP-CL17-IPC_C)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=U2_U_single_ended_to_diff_quad1(DBT0038A_M)
+Add component (AddParameter): Name = "2nd Harmonic(dBc)"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3rd Harmonic(dBc)"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "@ MHz"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BW @ Acl(MHz)"; Value = "135"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-153"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=THS4524&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds368"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SBOS458F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Io(Typ)(mA)"; Value = "35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "1.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Voltage Drift (+/-)(Max)(uV/Degrees Celsius"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "38-Pin Plastic Small Outline, Body 9.7 x 4.4 mm, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DBT0038A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4073252-6/I, 03/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "THS4524IDBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rail-Rail"; Value = "Out"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Settling Time (0.1%)(Typ)(ns)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "420"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Fully Differential Amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "THD (Fc is 1 MHz)(Typ)(dB)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio (25C)(Max)(mV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio(Max)(mV)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vn at Flatband(Typ)(nV/rtHz)"; Value = "4.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Min)(V)"; Value = "2.5"; VariantName = "[No Variations]"
+Added Component: Designator=U2_U_single_ended_to_diff_quad5(DBT0038A_M)
+Add component (AddParameter): Name = "2nd Harmonic(dBc)"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3rd Harmonic(dBc)"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "@ MHz"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BW @ Acl(MHz)"; Value = "135"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-153"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=THS4524&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds368"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SBOS458F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Io(Typ)(mA)"; Value = "35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "1.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Voltage Drift (+/-)(Max)(uV/Degrees Celsius"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "38-Pin Plastic Small Outline, Body 9.7 x 4.4 mm, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DBT0038A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4073252-6/I, 03/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "THS4524IDBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rail-Rail"; Value = "Out"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Settling Time (0.1%)(Typ)(ns)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "420"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Fully Differential Amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "THD (Fc is 1 MHz)(Typ)(dB)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio (25C)(Max)(mV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio(Max)(mV)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vn at Flatband(Typ)(nV/rtHz)"; Value = "4.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Min)(V)"; Value = "2.5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=2V5 Pin=C28_U_single_ended_to_diff_quad5-1
+Added Pin To Net: NetName=GND Pin=C28_U_single_ended_to_diff_quad5-2
+Added Pin To Net: NetName=n2V5 Pin=C30_U_single_ended_to_diff_quad5-1
+Added Pin To Net: NetName=GND Pin=C30_U_single_ended_to_diff_quad5-2
+Added Pin To Net: NetName=NetR11_U_single_ended_to_diff_quad1_2 Pin=U2_U_single_ended_to_diff_quad1-2
+Added Pin To Net: NetName=NetR8_U_single_ended_to_diff_quad1_1 Pin=U2_U_single_ended_to_diff_quad1-3
+Added Pin To Net: NetName=NetC23_U_single_ended_to_diff_quad1_1 Pin=U2_U_single_ended_to_diff_quad1-4
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad1-5
+Added Pin To Net: NetName=NetR17_U_single_ended_to_diff_quad1_2 Pin=U2_U_single_ended_to_diff_quad1-7
+Added Pin To Net: NetName=NetR14_U_single_ended_to_diff_quad1_1 Pin=U2_U_single_ended_to_diff_quad1-8
+Added Pin To Net: NetName=NetC24_U_single_ended_to_diff_quad1_1 Pin=U2_U_single_ended_to_diff_quad1-9
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad1-10
+Added Pin To Net: NetName=NetR23_U_single_ended_to_diff_quad1_2 Pin=U2_U_single_ended_to_diff_quad1-12
+Added Pin To Net: NetName=NetR20_U_single_ended_to_diff_quad1_1 Pin=U2_U_single_ended_to_diff_quad1-13
+Added Pin To Net: NetName=NetC25_U_single_ended_to_diff_quad1_1 Pin=U2_U_single_ended_to_diff_quad1-14
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad1-15
+Added Pin To Net: NetName=NetR27_U_single_ended_to_diff_quad1_2 Pin=U2_U_single_ended_to_diff_quad1-17
+Added Pin To Net: NetName=NetR25_U_single_ended_to_diff_quad1_1 Pin=U2_U_single_ended_to_diff_quad1-18
+Added Pin To Net: NetName=NetC26_U_single_ended_to_diff_quad1_1 Pin=U2_U_single_ended_to_diff_quad1-19
+Added Pin To Net: NetName=2V5 Pin=U2_U_single_ended_to_diff_quad1-20
+Added Pin To Net: NetName=NetR25_U_single_ended_to_diff_quad1_2 Pin=U2_U_single_ended_to_diff_quad1-21
+Added Pin To Net: NetName=NetR29_U_single_ended_to_diff_quad1_2 Pin=U2_U_single_ended_to_diff_quad1-22
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad1-23
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad1-24
+Added Pin To Net: NetName=2V5 Pin=U2_U_single_ended_to_diff_quad1-25
+Added Pin To Net: NetName=NetR20_U_single_ended_to_diff_quad1_2 Pin=U2_U_single_ended_to_diff_quad1-26
+Added Pin To Net: NetName=NetR24_U_single_ended_to_diff_quad1_2 Pin=U2_U_single_ended_to_diff_quad1-27
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad1-28
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad1-29
+Added Pin To Net: NetName=2V5 Pin=U2_U_single_ended_to_diff_quad1-30
+Added Pin To Net: NetName=NetR14_U_single_ended_to_diff_quad1_2 Pin=U2_U_single_ended_to_diff_quad1-31
+Added Pin To Net: NetName=NetR18_U_single_ended_to_diff_quad1_2 Pin=U2_U_single_ended_to_diff_quad1-32
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad1-33
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad1-34
+Added Pin To Net: NetName=2V5 Pin=U2_U_single_ended_to_diff_quad1-35
+Added Pin To Net: NetName=NetR8_U_single_ended_to_diff_quad1_2 Pin=U2_U_single_ended_to_diff_quad1-36
+Added Pin To Net: NetName=NetR12_U_single_ended_to_diff_quad1_2 Pin=U2_U_single_ended_to_diff_quad1-37
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad1-38
+Added Pin To Net: NetName=NetR11_U_single_ended_to_diff_quad5_2 Pin=U2_U_single_ended_to_diff_quad5-2
+Added Pin To Net: NetName=NetR8_U_single_ended_to_diff_quad5_1 Pin=U2_U_single_ended_to_diff_quad5-3
+Added Pin To Net: NetName=NetC23_U_single_ended_to_diff_quad5_1 Pin=U2_U_single_ended_to_diff_quad5-4
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad5-5
+Added Pin To Net: NetName=NetR17_U_single_ended_to_diff_quad5_2 Pin=U2_U_single_ended_to_diff_quad5-7
+Added Pin To Net: NetName=NetR14_U_single_ended_to_diff_quad5_1 Pin=U2_U_single_ended_to_diff_quad5-8
+Added Pin To Net: NetName=NetC24_U_single_ended_to_diff_quad5_1 Pin=U2_U_single_ended_to_diff_quad5-9
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad5-10
+Added Pin To Net: NetName=NetR23_U_single_ended_to_diff_quad5_2 Pin=U2_U_single_ended_to_diff_quad5-12
+Added Pin To Net: NetName=NetR20_U_single_ended_to_diff_quad5_1 Pin=U2_U_single_ended_to_diff_quad5-13
+Added Pin To Net: NetName=NetC25_U_single_ended_to_diff_quad5_1 Pin=U2_U_single_ended_to_diff_quad5-14
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad5-15
+Added Pin To Net: NetName=NetR27_U_single_ended_to_diff_quad5_2 Pin=U2_U_single_ended_to_diff_quad5-17
+Added Pin To Net: NetName=NetR25_U_single_ended_to_diff_quad5_1 Pin=U2_U_single_ended_to_diff_quad5-18
+Added Pin To Net: NetName=NetC26_U_single_ended_to_diff_quad5_1 Pin=U2_U_single_ended_to_diff_quad5-19
+Added Pin To Net: NetName=2V5 Pin=U2_U_single_ended_to_diff_quad5-20
+Added Pin To Net: NetName=NetR25_U_single_ended_to_diff_quad5_2 Pin=U2_U_single_ended_to_diff_quad5-21
+Added Pin To Net: NetName=NetR29_U_single_ended_to_diff_quad5_2 Pin=U2_U_single_ended_to_diff_quad5-22
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad5-23
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad5-24
+Added Pin To Net: NetName=2V5 Pin=U2_U_single_ended_to_diff_quad5-25
+Added Pin To Net: NetName=NetR20_U_single_ended_to_diff_quad5_2 Pin=U2_U_single_ended_to_diff_quad5-26
+Added Pin To Net: NetName=NetR24_U_single_ended_to_diff_quad5_2 Pin=U2_U_single_ended_to_diff_quad5-27
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad5-28
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad5-29
+Added Pin To Net: NetName=2V5 Pin=U2_U_single_ended_to_diff_quad5-30
+Added Pin To Net: NetName=NetR14_U_single_ended_to_diff_quad5_2 Pin=U2_U_single_ended_to_diff_quad5-31
+Added Pin To Net: NetName=NetR18_U_single_ended_to_diff_quad5_2 Pin=U2_U_single_ended_to_diff_quad5-32
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad5-33
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad5-34
+Added Pin To Net: NetName=2V5 Pin=U2_U_single_ended_to_diff_quad5-35
+Added Pin To Net: NetName=NetR8_U_single_ended_to_diff_quad5_2 Pin=U2_U_single_ended_to_diff_quad5-36
+Added Pin To Net: NetName=NetR12_U_single_ended_to_diff_quad5_2 Pin=U2_U_single_ended_to_diff_quad5-37
+Added Pin To Net: NetName=n2V5 Pin=U2_U_single_ended_to_diff_quad5-38
+Added Member To Class: ClassName=U_single_ended_to_diff_quad5 Member=Component C28_U_single_ended_to_diff_quad5 (C28) CL05B104KP5NNNC
+Added Member To Class: ClassName=U_single_ended_to_diff_quad5 Member=Component C30_U_single_ended_to_diff_quad5 (C30) CL05B104KP5NNNC
+Added Member To Class: ClassName=U_single_ended_to_diff_quad1 Member=Component U2_U_single_ended_to_diff_quad1 (U2A) THS4524IDBT
+Added Member To Class: ClassName=U_single_ended_to_diff_quad5 Member=Component U2_U_single_ended_to_diff_quad5 (U2A) THS4524IDBT

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=CHN48 Pin=R10_U_single_ended_to_diff_quad4-1
+Removed Pin From Net: NetName=CHP48 Pin=R12_U_single_ended_to_diff_quad4-1
+Removed Pin From Net: NetName=CHN49 Pin=R16_U_single_ended_to_diff_quad4-1
+Removed Pin From Net: NetName=CHP49 Pin=R18_U_single_ended_to_diff_quad4-1
+Removed Pin From Net: NetName=CHN50 Pin=R22_U_single_ended_to_diff_quad4-1
+Removed Pin From Net: NetName=CHP50 Pin=R24_U_single_ended_to_diff_quad4-1
+Removed Pin From Net: NetName=CHN51 Pin=R28_U_single_ended_to_diff_quad4-1
+Removed Pin From Net: NetName=CHP51 Pin=R30_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=CHN51 Pin=R10_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=CHP51 Pin=R12_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=CHN50 Pin=R16_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=CHP50 Pin=R18_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=CHN49 Pin=R22_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=CHP49 Pin=R24_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=CHN48 Pin=R28_U_single_ended_to_diff_quad4-1
+Added Pin To Net: NetName=CHP48 Pin=R30_U_single_ended_to_diff_quad4-1

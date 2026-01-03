@@ -1,0 +1,554 @@
+Added Component: Designator=J7(AMPHENOL_75869-110LF)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/75869-110LF/Amphenol+FCI/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "75869-110LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/75869-110LF/Amphenol+FCI/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J8(AMPHENOL_75869-110LF)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/75869-110LF/Amphenol+FCI/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "75869-110LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/75869-110LF/Amphenol+FCI/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J9(AMPHENOL_75869-110LF)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/75869-110LF/Amphenol+FCI/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "75869-110LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/75869-110LF/Amphenol+FCI/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J10(AMPHENOL_75869-110LF)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/75869-110LF/Amphenol+FCI/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "75869-110LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/75869-110LF/Amphenol+FCI/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found RC0402N_YAG
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found CAPC1005X60
+Add component: Footprint Not Found D6R90_CNK
+Added Pin To Net: NetName=GND Pin=J7-01
+Added Pin To Net: NetName=GND Pin=J7-02
+Added Pin To Net: NetName=GND Pin=J7-03
+Added Pin To Net: NetName=GND Pin=J7-04
+Added Pin To Net: NetName=GND Pin=J7-05
+Added Pin To Net: NetName=GND Pin=J7-06
+Added Pin To Net: NetName=GND Pin=J7-07
+Added Pin To Net: NetName=GND Pin=J7-08
+Added Pin To Net: NetName=GND Pin=J7-09
+Added Pin To Net: NetName=GND Pin=J7-10
+Added Pin To Net: NetName=GND Pin=J7-11
+Added Pin To Net: NetName=GND Pin=J7-12
+Added Pin To Net: NetName=GND Pin=J7-13
+Added Pin To Net: NetName=GND Pin=J7-14
+Added Pin To Net: NetName=GND Pin=J7-15
+Added Pin To Net: NetName=GND Pin=J7-16
+Added Pin To Net: NetName=GND Pin=J7-17
+Added Pin To Net: NetName=GND Pin=J7-18
+Added Pin To Net: NetName=GND Pin=J7-19
+Added Pin To Net: NetName=GND Pin=J7-20
+Added Pin To Net: NetName=GND Pin=J7-21
+Added Pin To Net: NetName=GND Pin=J7-22
+Added Pin To Net: NetName=GND Pin=J7-23
+Added Pin To Net: NetName=GND Pin=J7-24
+Added Pin To Net: NetName=GND Pin=J7-25
+Added Pin To Net: NetName=GND Pin=J7-26
+Added Pin To Net: NetName=GND Pin=J7-27
+Added Pin To Net: NetName=GND Pin=J7-28
+Added Pin To Net: NetName=GND Pin=J7-29
+Added Pin To Net: NetName=GND Pin=J7-30
+Added Pin To Net: NetName=GND Pin=J7-31
+Added Pin To Net: NetName=GND Pin=J7-32
+Added Pin To Net: NetName=GND Pin=J7-33
+Added Pin To Net: NetName=GND Pin=J7-34
+Added Pin To Net: NetName=GND Pin=J7-35
+Added Pin To Net: NetName=GND Pin=J7-36
+Added Pin To Net: NetName=GND Pin=J7-37
+Added Pin To Net: NetName=GND Pin=J7-38
+Added Pin To Net: NetName=GND Pin=J7-39
+Added Pin To Net: NetName=GND Pin=J7-40
+Added Pin To Net: NetName=GND Pin=J7-41
+Added Pin To Net: NetName=GND Pin=J7-42
+Added Pin To Net: NetName=GND Pin=J7-43
+Added Pin To Net: NetName=GND Pin=J7-44
+Added Pin To Net: NetName=GND Pin=J7-45
+Added Pin To Net: NetName=GND Pin=J7-46
+Added Pin To Net: NetName=GND Pin=J7-47
+Added Pin To Net: NetName=GND Pin=J7-48
+Added Pin To Net: NetName=GND Pin=J7-49
+Added Pin To Net: NetName=GND Pin=J7-50
+Added Pin To Net: NetName=GND Pin=J7-51
+Added Pin To Net: NetName=GND Pin=J7-52
+Added Pin To Net: NetName=GND Pin=J7-53
+Added Pin To Net: NetName=GND Pin=J7-54
+Added Pin To Net: NetName=GND Pin=J7-55
+Added Pin To Net: NetName=GND Pin=J7-56
+Added Pin To Net: NetName=GND Pin=J7-57
+Added Pin To Net: NetName=GND Pin=J7-58
+Added Pin To Net: NetName=GND Pin=J7-59
+Added Pin To Net: NetName=GND Pin=J7-60
+Added Pin To Net: NetName=GND Pin=J7-61
+Added Pin To Net: NetName=GND Pin=J7-62
+Added Pin To Net: NetName=GND Pin=J7-63
+Added Pin To Net: NetName=GND Pin=J7-64
+Added Pin To Net: NetName=F3 Pin=J8-01
+Added Pin To Net: NetName=E1 Pin=J8-02
+Added Pin To Net: NetName=E2 Pin=J8-03
+Added Pin To Net: NetName=D1 Pin=J8-04
+Added Pin To Net: NetName=E3 Pin=J8-05
+Added Pin To Net: NetName=D2 Pin=J8-06
+Added Pin To Net: NetName=C1 Pin=J8-07
+Added Pin To Net: NetName=C2 Pin=J8-08
+Added Pin To Net: NetName=D3 Pin=J8-09
+Added Pin To Net: NetName=B1 Pin=J8-10
+Added Pin To Net: NetName=B2 Pin=J8-11
+Added Pin To Net: NetName=C3 Pin=J8-12
+Added Pin To Net: NetName=A1 Pin=J8-13
+Added Pin To Net: NetName=B3 Pin=J8-14
+Added Pin To Net: NetName=C4 Pin=J8-15
+Added Pin To Net: NetName=A2 Pin=J8-16
+Added Pin To Net: NetName=C10 Pin=J8-17
+Added Pin To Net: NetName=A12 Pin=J8-18
+Added Pin To Net: NetName=B12 Pin=J8-19
+Added Pin To Net: NetName=C11 Pin=J8-20
+Added Pin To Net: NetName=A13 Pin=J8-21
+Added Pin To Net: NetName=C12 Pin=J8-22
+Added Pin To Net: NetName=D11 Pin=J8-23
+Added Pin To Net: NetName=B13 Pin=J8-24
+Added Pin To Net: NetName=C13 Pin=J8-25
+Added Pin To Net: NetName=D12 Pin=J8-26
+Added Pin To Net: NetName=E11 Pin=J8-27
+Added Pin To Net: NetName=D13 Pin=J8-28
+Added Pin To Net: NetName=E12 Pin=J8-29
+Added Pin To Net: NetName=E13 Pin=J8-30
+Added Pin To Net: NetName=F11 Pin=J8-31
+Added Pin To Net: NetName=F12 Pin=J8-32
+Added Pin To Net: NetName=G12 Pin=J8-33
+Added Pin To Net: NetName=H13 Pin=J8-34
+Added Pin To Net: NetName=H12 Pin=J8-35
+Added Pin To Net: NetName=H11 Pin=J8-36
+Added Pin To Net: NetName=J13 Pin=J8-37
+Added Pin To Net: NetName=J12 Pin=J8-38
+Added Pin To Net: NetName=K13 Pin=J8-39
+Added Pin To Net: NetName=J11 Pin=J8-40
+Added Pin To Net: NetName=K12 Pin=J8-41
+Added Pin To Net: NetName=L13 Pin=J8-42
+Added Pin To Net: NetName=L12 Pin=J8-43
+Added Pin To Net: NetName=K11 Pin=J8-44
+Added Pin To Net: NetName=M13 Pin=J8-45
+Added Pin To Net: NetName=M12 Pin=J8-46
+Added Pin To Net: NetName=L11 Pin=J8-47
+Added Pin To Net: NetName=N13 Pin=J8-48
+Added Pin To Net: NetName=L3 Pin=J8-49
+Added Pin To Net: NetName=N1 Pin=J8-50
+Added Pin To Net: NetName=L2 Pin=J8-51
+Added Pin To Net: NetName=K3 Pin=J8-52
+Added Pin To Net: NetName=M1 Pin=J8-53
+Added Pin To Net: NetName=L1 Pin=J8-54
+Added Pin To Net: NetName=K2 Pin=J8-55
+Added Pin To Net: NetName=J3 Pin=J8-56
+Added Pin To Net: NetName=K1 Pin=J8-57
+Added Pin To Net: NetName=J2 Pin=J8-58
+Added Pin To Net: NetName=J1 Pin=J8-59
+Added Pin To Net: NetName=H3 Pin=J8-60
+Added Pin To Net: NetName=H2 Pin=J8-61
+Added Pin To Net: NetName=H1 Pin=J8-62
+Added Pin To Net: NetName=G1 Pin=J8-63
+Added Pin To Net: NetName=G3 Pin=J8-64
+Added Pin To Net: NetName=F3 Pin=J9-01
+Added Pin To Net: NetName=E1 Pin=J9-02
+Added Pin To Net: NetName=E2 Pin=J9-03
+Added Pin To Net: NetName=D1 Pin=J9-04
+Added Pin To Net: NetName=E3 Pin=J9-05
+Added Pin To Net: NetName=D2 Pin=J9-06
+Added Pin To Net: NetName=C1 Pin=J9-07
+Added Pin To Net: NetName=C2 Pin=J9-08
+Added Pin To Net: NetName=D3 Pin=J9-09
+Added Pin To Net: NetName=B1 Pin=J9-10
+Added Pin To Net: NetName=B2 Pin=J9-11
+Added Pin To Net: NetName=C3 Pin=J9-12
+Added Pin To Net: NetName=A1 Pin=J9-13
+Added Pin To Net: NetName=B3 Pin=J9-14
+Added Pin To Net: NetName=C4 Pin=J9-15
+Added Pin To Net: NetName=A2 Pin=J9-16
+Added Pin To Net: NetName=C10 Pin=J9-17
+Added Pin To Net: NetName=A12 Pin=J9-18
+Added Pin To Net: NetName=B12 Pin=J9-19
+Added Pin To Net: NetName=C11 Pin=J9-20
+Added Pin To Net: NetName=A13 Pin=J9-21
+Added Pin To Net: NetName=C12 Pin=J9-22
+Added Pin To Net: NetName=D11 Pin=J9-23
+Added Pin To Net: NetName=B13 Pin=J9-24
+Added Pin To Net: NetName=C13 Pin=J9-25
+Added Pin To Net: NetName=D12 Pin=J9-26
+Added Pin To Net: NetName=E11 Pin=J9-27
+Added Pin To Net: NetName=D13 Pin=J9-28
+Added Pin To Net: NetName=E12 Pin=J9-29
+Added Pin To Net: NetName=E13 Pin=J9-30
+Added Pin To Net: NetName=F11 Pin=J9-31
+Added Pin To Net: NetName=F12 Pin=J9-32
+Added Pin To Net: NetName=G12 Pin=J9-33
+Added Pin To Net: NetName=H13 Pin=J9-34
+Added Pin To Net: NetName=H12 Pin=J9-35
+Added Pin To Net: NetName=H11 Pin=J9-36
+Added Pin To Net: NetName=J13 Pin=J9-37
+Added Pin To Net: NetName=J12 Pin=J9-38
+Added Pin To Net: NetName=K13 Pin=J9-39
+Added Pin To Net: NetName=J11 Pin=J9-40
+Added Pin To Net: NetName=K12 Pin=J9-41
+Added Pin To Net: NetName=L13 Pin=J9-42
+Added Pin To Net: NetName=L12 Pin=J9-43
+Added Pin To Net: NetName=K11 Pin=J9-44
+Added Pin To Net: NetName=M13 Pin=J9-45
+Added Pin To Net: NetName=M12 Pin=J9-46
+Added Pin To Net: NetName=L11 Pin=J9-47
+Added Pin To Net: NetName=N13 Pin=J9-48
+Added Pin To Net: NetName=L3 Pin=J9-49
+Added Pin To Net: NetName=N1 Pin=J9-50
+Added Pin To Net: NetName=L2 Pin=J9-51
+Added Pin To Net: NetName=K3 Pin=J9-52
+Added Pin To Net: NetName=M1 Pin=J9-53
+Added Pin To Net: NetName=L1 Pin=J9-54
+Added Pin To Net: NetName=K2 Pin=J9-55
+Added Pin To Net: NetName=J3 Pin=J9-56
+Added Pin To Net: NetName=K1 Pin=J9-57
+Added Pin To Net: NetName=J2 Pin=J9-58
+Added Pin To Net: NetName=J1 Pin=J9-59
+Added Pin To Net: NetName=H3 Pin=J9-60
+Added Pin To Net: NetName=H2 Pin=J9-61
+Added Pin To Net: NetName=H1 Pin=J9-62
+Added Pin To Net: NetName=G1 Pin=J9-63
+Added Pin To Net: NetName=G3 Pin=J9-64
+Added Pin To Net: NetName=GND Pin=J10-01
+Added Pin To Net: NetName=GND Pin=J10-02
+Added Pin To Net: NetName=GND Pin=J10-03
+Added Pin To Net: NetName=GND Pin=J10-04
+Added Pin To Net: NetName=GND Pin=J10-05
+Added Pin To Net: NetName=GND Pin=J10-06
+Added Pin To Net: NetName=GND Pin=J10-07
+Added Pin To Net: NetName=GND Pin=J10-08
+Added Pin To Net: NetName=GND Pin=J10-09
+Added Pin To Net: NetName=GND Pin=J10-10
+Added Pin To Net: NetName=GND Pin=J10-11
+Added Pin To Net: NetName=GND Pin=J10-12
+Added Pin To Net: NetName=GND Pin=J10-13
+Added Pin To Net: NetName=GND Pin=J10-14
+Added Pin To Net: NetName=GND Pin=J10-15
+Added Pin To Net: NetName=GND Pin=J10-16
+Added Pin To Net: NetName=GND Pin=J10-17
+Added Pin To Net: NetName=GND Pin=J10-18
+Added Pin To Net: NetName=GND Pin=J10-19
+Added Pin To Net: NetName=GND Pin=J10-20
+Added Pin To Net: NetName=GND Pin=J10-21
+Added Pin To Net: NetName=GND Pin=J10-22
+Added Pin To Net: NetName=GND Pin=J10-23
+Added Pin To Net: NetName=GND Pin=J10-24
+Added Pin To Net: NetName=GND Pin=J10-25
+Added Pin To Net: NetName=GND Pin=J10-26
+Added Pin To Net: NetName=GND Pin=J10-27
+Added Pin To Net: NetName=GND Pin=J10-28
+Added Pin To Net: NetName=GND Pin=J10-29
+Added Pin To Net: NetName=GND Pin=J10-30
+Added Pin To Net: NetName=GND Pin=J10-31
+Added Pin To Net: NetName=GND Pin=J10-32
+Added Pin To Net: NetName=GND Pin=J10-33
+Added Pin To Net: NetName=GND Pin=J10-34
+Added Pin To Net: NetName=GND Pin=J10-35
+Added Pin To Net: NetName=GND Pin=J10-36
+Added Pin To Net: NetName=GND Pin=J10-37
+Added Pin To Net: NetName=GND Pin=J10-38
+Added Pin To Net: NetName=GND Pin=J10-39
+Added Pin To Net: NetName=GND Pin=J10-40
+Added Pin To Net: NetName=GND Pin=J10-41
+Added Pin To Net: NetName=GND Pin=J10-42
+Added Pin To Net: NetName=GND Pin=J10-43
+Added Pin To Net: NetName=GND Pin=J10-44
+Added Pin To Net: NetName=GND Pin=J10-45
+Added Pin To Net: NetName=GND Pin=J10-46
+Added Pin To Net: NetName=GND Pin=J10-47
+Added Pin To Net: NetName=GND Pin=J10-48
+Added Pin To Net: NetName=GND Pin=J10-49
+Added Pin To Net: NetName=GND Pin=J10-50
+Added Pin To Net: NetName=GND Pin=J10-51
+Added Pin To Net: NetName=GND Pin=J10-52
+Added Pin To Net: NetName=GND Pin=J10-53
+Added Pin To Net: NetName=GND Pin=J10-54
+Added Pin To Net: NetName=GND Pin=J10-55
+Added Pin To Net: NetName=GND Pin=J10-56
+Added Pin To Net: NetName=GND Pin=J10-57
+Added Pin To Net: NetName=GND Pin=J10-58
+Added Pin To Net: NetName=GND Pin=J10-59
+Added Pin To Net: NetName=GND Pin=J10-60
+Added Pin To Net: NetName=GND Pin=J10-61
+Added Pin To Net: NetName=GND Pin=J10-62
+Added Pin To Net: NetName=GND Pin=J10-63
+Added Pin To Net: NetName=GND Pin=J10-64
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad1-1
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad1-2
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad2-1
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad2-2
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad3-1
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad3-2
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad4-1
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad4-2
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad5-1
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad5-2
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad6-1
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad6-2
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad7-1
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad7-2
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad8-1
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad8-2
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad9-1
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad9-2
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad10-1
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad10-2
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad11-1
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad11-2
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad12-1
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad12-2
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad13-1
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad13-2
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad14-1
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad14-2
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad15-1
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad15-2
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad16-1
+Add Pin To Net: Unknown Pin: Pin R13_U_single_ended_to_diff_quad16-2
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad1-1
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad1-2
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad2-1
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad2-2
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad3-1
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad3-2
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad4-1
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad4-2
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad5-1
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad5-2
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad6-1
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad6-2
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad7-1
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad7-2
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad8-1
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad8-2
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad9-1
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad9-2
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad10-1
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad10-2
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad11-1
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad11-2
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad12-1
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad12-2
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad13-1
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad13-2
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad14-1
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad14-2
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad15-1
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad15-2
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad16-1
+Add Pin To Net: Unknown Pin: Pin R19_U_single_ended_to_diff_quad16-2
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad1-1
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad1-2
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad2-1
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad2-2
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad3-1
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad3-2
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad4-1
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad4-2
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad5-1
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad5-2
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad6-1
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad6-2
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad7-1
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad7-2
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad8-1
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad8-2
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad9-1
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad9-2
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad10-1
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad10-2
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad11-1
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad11-2
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad12-1
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad12-2
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad13-1
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad13-2
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad14-1
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad14-2
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad15-1
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad15-2
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad16-1
+Add Pin To Net: Unknown Pin: Pin R25_U_single_ended_to_diff_quad16-2
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad1-1
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad1-2
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad2-1
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad2-2
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad3-1
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad3-2
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad4-1
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad4-2
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad5-1
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad5-2
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad6-1
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad6-2
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad7-1
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad7-2
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad8-1
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad8-2
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad9-1
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad9-2
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad10-1
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad10-2
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad11-1
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad11-2
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad12-1
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad12-2
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad13-1
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad13-2
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad14-1
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad14-2
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad15-1
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad15-2
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad16-1
+Add Pin To Net: Unknown Pin: Pin R31_U_single_ended_to_diff_quad16-2
+Add Pin To Net: Unknown Pin: Pin SW1-1
+Add Pin To Net: Unknown Pin: Pin SW1-2
+Add Pin To Net: Unknown Pin: Pin SW1-3
+Add Pin To Net: Unknown Pin: Pin SW1-4
+Added Member To Class: ClassName=U_load_resistor Member=Component J7 75869-110LF
+Added Member To Class: ClassName=U_load_resistor Member=Component J8 75869-110LF
+Added Member To Class: ClassName=U_load_capacitor Member=Component J9 75869-110LF
+Added Member To Class: ClassName=U_load_capacitor Member=Component J10 75869-110LF
+Add Class Member: Failed to add class member : Component R5 RC0402JR-0710KL
+Add Class Member: Failed to add class member : Component R13_U_single_ended_to_diff_quad1 (R13) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R13_U_single_ended_to_diff_quad2 (R13) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R13_U_single_ended_to_diff_quad3 (R13) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R13_U_single_ended_to_diff_quad4 (R13) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R13_U_single_ended_to_diff_quad5 (R13) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R13_U_single_ended_to_diff_quad6 (R13) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R13_U_single_ended_to_diff_quad7 (R13) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R13_U_single_ended_to_diff_quad8 (R13) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R13_U_single_ended_to_diff_quad9 (R13) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R13_U_single_ended_to_diff_quad10 (R13) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R13_U_single_ended_to_diff_quad11 (R13) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R13_U_single_ended_to_diff_quad12 (R13) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R13_U_single_ended_to_diff_quad13 (R13) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R13_U_single_ended_to_diff_quad14 (R13) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R13_U_single_ended_to_diff_quad15 (R13) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R13_U_single_ended_to_diff_quad16 (R13) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R19_U_single_ended_to_diff_quad1 (R19) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R19_U_single_ended_to_diff_quad2 (R19) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R19_U_single_ended_to_diff_quad3 (R19) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R19_U_single_ended_to_diff_quad4 (R19) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R19_U_single_ended_to_diff_quad5 (R19) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R19_U_single_ended_to_diff_quad6 (R19) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R19_U_single_ended_to_diff_quad7 (R19) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R19_U_single_ended_to_diff_quad8 (R19) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R19_U_single_ended_to_diff_quad9 (R19) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R19_U_single_ended_to_diff_quad10 (R19) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R19_U_single_ended_to_diff_quad11 (R19) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R19_U_single_ended_to_diff_quad12 (R19) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R19_U_single_ended_to_diff_quad13 (R19) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R19_U_single_ended_to_diff_quad14 (R19) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R19_U_single_ended_to_diff_quad15 (R19) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R19_U_single_ended_to_diff_quad16 (R19) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R25_U_single_ended_to_diff_quad1 (R25) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R25_U_single_ended_to_diff_quad2 (R25) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R25_U_single_ended_to_diff_quad3 (R25) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R25_U_single_ended_to_diff_quad4 (R25) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R25_U_single_ended_to_diff_quad5 (R25) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R25_U_single_ended_to_diff_quad6 (R25) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R25_U_single_ended_to_diff_quad7 (R25) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R25_U_single_ended_to_diff_quad8 (R25) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R25_U_single_ended_to_diff_quad9 (R25) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R25_U_single_ended_to_diff_quad10 (R25) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R25_U_single_ended_to_diff_quad11 (R25) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R25_U_single_ended_to_diff_quad12 (R25) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R25_U_single_ended_to_diff_quad13 (R25) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R25_U_single_ended_to_diff_quad14 (R25) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R25_U_single_ended_to_diff_quad15 (R25) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R25_U_single_ended_to_diff_quad16 (R25) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R31_U_single_ended_to_diff_quad1 (R31) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R31_U_single_ended_to_diff_quad2 (R31) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R31_U_single_ended_to_diff_quad3 (R31) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R31_U_single_ended_to_diff_quad4 (R31) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R31_U_single_ended_to_diff_quad5 (R31) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R31_U_single_ended_to_diff_quad6 (R31) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R31_U_single_ended_to_diff_quad7 (R31) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R31_U_single_ended_to_diff_quad8 (R31) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R31_U_single_ended_to_diff_quad9 (R31) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R31_U_single_ended_to_diff_quad10 (R31) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R31_U_single_ended_to_diff_quad11 (R31) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R31_U_single_ended_to_diff_quad12 (R31) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R31_U_single_ended_to_diff_quad13 (R31) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R31_U_single_ended_to_diff_quad14 (R31) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R31_U_single_ended_to_diff_quad15 (R31) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component R31_U_single_ended_to_diff_quad16 (R31) ERA-2AEB4990X
+Add Class Member: Failed to add class member : Component SW1 D6R90F2LFS
