@@ -15,7 +15,7 @@ The design for each stage in the radio is a LaTex PDF under the respective folde
 
 Note that my design has the following errors, which I discovered during board bringup:
 
-1. The input filter does not match 75 ohms to 50 ohms => I used a filter design tool that allows you to specify the input and output impedances, but doesn’t actually integrate a matching network into the filter. Luckily, this doesn't make too much of a difference in insertion loss.
+1. The input filter does not match 75 ohms to 50 ohms => I used a filter design tool that allows you to specify the input and output impedances, but doesn’t actually integrate a matching network into the filter. 
 2. The series LC resonator should be before the parallel resonator, not after, since currently the impedance of the filter drops at low and high frequencies.
 3. The PLL voltage level for all digital interfaces is 1.9V, but I used 3.3V. 
 4. I did not include a bypass cap for the LM386 near the power supply.
