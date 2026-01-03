@@ -13,6 +13,12 @@ I have assembled the PCB and tested it at home - a short video is on my LinkedIn
 
 The design for each stage in the radio is a LaTex PDF under the respective folder for each stage, under knowledge/Project_Specific_Knowledge/public/fm_radio/stages. I've also put some less organized notes in the brain dump folder.  
 
+Note that my design has the following errors, which I discovered during board bringup:
+
+1. The input filter does not match 75 ohms to 50 ohms => I used a filter design tool that allows you to specify the input and output impedances, but doesn’t actually integrate a matching network into the filter.
+2. The PLL voltage level for all digital interfaces is 1.9V, but I used 3.3V. 
+3. I did not include a bypass cap for the LM386 near the power supply.
+
 If you have any questions, feel free to reach out at piyushsud@gmail.com!.
 
 Input stage:
