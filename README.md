@@ -1,5 +1,5 @@
 # Projects
-This engineering portfolio contains some of the engineering projects I have worked on. 
+This engineering portfolio contains some of the engineering projects I have completed. 
 
 1. UIUC Senior Design Project - a house for mason bees with capacitive sensors to detect when bees enter and exit. We used phase sensitive detection to extract the bee data in a noisy environment.
 <img width="655" height="873" alt="image" src="https://github.com/user-attachments/assets/4252c7ad-c963-4968-b640-8132281498dd" />
@@ -8,7 +8,7 @@ This engineering portfolio contains some of the engineering projects I have work
 <img width="1255" height="945" alt="image" src="https://github.com/user-attachments/assets/bec27199-4515-4227-bf64-04a886c5d29d" />
 
 3. Sample and Hold Test PCB - I built this for my research lab at USC. Another group at USC designed a custom 64 channel interleaved sample and hold IC, to sample and hold a sine wave at 640 MHz and output all channels at 10 MHz. I designed this PCB to interface with that sample and hold IC by providing the clock and input signals, and sending the output to a CAEN DT2740 64-channel high speed digitizer.
-<img width="853" height="764" alt="image" src="https://github.com/user-attachments/assets/948636f7-ad70-458c-a41c-5e8fa63eacdf" />
+<img width="712" height="945" alt="image" src="https://github.com/user-attachments/assets/43a6d8f6-20b5-4c8b-833c-bb2e344a1765" />
 
 
 The project which I am the most proud of is an FM radio receiver. 
