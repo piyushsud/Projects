@@ -21,7 +21,7 @@ The design for each stage in the radio is a LaTex PDF under the respective folde
 
 Note that my design has the following errors, which I discovered during board bringup:
 
-1. The input filter impedance is not 75 ohms to match the antenna, and doesn't transform 75 ohms to the system impedance of 50 ohms.
+1. The input filter impedance is not 75 ohms to match the antenna, and doesn't transform 75 ohms to the system impedance of 50 ohms. The HF amp already has a 50 ohm input impedance, so all you need is a transmission line transformer instead of the 50 ohm resistor to ground.
 2. The PLL voltage level for all digital interfaces is 1.9V, but I used 3.3V. 
 3. I did not include a bypass cap for the LM386 near the power supply.
 
